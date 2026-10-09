@@ -1,0 +1,26 @@
+name,category,duplicate_key,price_min_inr,price_max_inr,popularity_weight,stale_probability
+Spotify Premium,Entertainment,music,119,139,0.55,0.12
+YouTube Premium,Entertainment,music,149,189,0.35,0.12
+Apple Music,Entertainment,music,99,119,0.12,0.15
+JioSaavn Pro,Entertainment,music,99,99,0.1,0.2
+Netflix,Entertainment,video,149,649,0.5,0.3
+Prime Video,Entertainment,video,125,299,0.55,0.3
+JioHotstar,Entertainment,video,149,299,0.45,0.35
+SonyLIV,Entertainment,video,99,399,0.12,0.45
+Zee5,Entertainment,video,99,149,0.08,0.5
+Swiggy One,Food,food_membership,149,199,0.3,0.15
+Zomato Gold,Food,food_membership,149,199,0.28,0.15
+Gym Membership,Health,fitness,1000,2500,0.3,0.45
+Fitness App,Health,fitness,300,1000,0.15,0.5
+Google One Storage,Productivity,storage,130,210,0.35,0.35
+iCloud+ Storage,Productivity,storage,75,219,0.2,0.35
+AI Assistant Pro,Productivity,ai_tools,1700,2000,0.2,0.2
+AI Code Assistant,Productivity,ai_tools,800,1000,0.15,0.2
+Online Course Platform,Learning,learning,400,1200,0.2,0.5
+Learning App,Learning,learning,200,600,0.1,0.5
+Professional Network Premium,Professional,professional,1500,2400,0.08,0.5
+News / Magazine App,Reading,reading,99,250,0.12,0.4
+Ebook / Audiobook App,Reading,reading,149,199,0.1,0.4
+Game Subscription,Gaming,gaming,349,549,0.1,0.4
+VPN Service,Security,security,150,300,0.1,0.45
+Domain / Hosting,Dev Tools,dev_tools,200,500,0.06,0.25

@@ -1,0 +1,14 @@
+node_modules/
+backend/.env
+.env.production
+backend/.venv/
+backend/.site-packages/
+backend/fintwin.db
+backend/uploads/
+backend/artifacts/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/.test-runtime/
+dist/
+logs/
+backend/logs/

@@ -1,0 +1,9 @@
+{
+  "name": "fintwin-ai",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {"dev": "node server.mjs", "build": "node --check src/main.js && node --check server.mjs && node scripts/build.mjs", "preview": "node preview.mjs"},
+  "dependencies": {},
+  "devDependencies": {}
+}

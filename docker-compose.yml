@@ -1,0 +1,79 @@
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: fintwin
+      POSTGRES_USER: fintwin
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?Set POSTGRES_PASSWORD}
+    volumes: ["postgres_data:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U fintwin -d fintwin"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    command: ["redis-server", "--appendonly", "yes"]
+    volumes: ["redis_data:/data"]
+  api:
+    build: ./backend
+    restart: unless-stopped
+    env_file: .env.production
+    environment:
+      DATABASE_URL: postgresql+psycopg://fintwin:${POSTGRES_PASSWORD}@db:5432/fintwin
+      REDIS_URL: redis://redis:6379/0
+      APP_ENV: production
+      FRONTEND_ORIGINS: https://${PUBLIC_DOMAIN}
+      UPLOAD_DIR: /data/uploads
+      MODEL_DIR: /data/artifacts
+    volumes: ["fintwin_uploads:/data/uploads", "fintwin_models:/data/artifacts"]
+    depends_on:
+      db: {condition: service_healthy}
+      redis: {condition: service_started}
+  worker:
+    build: ./backend
+    restart: unless-stopped
+    command: ["celery", "-A", "app.main.celery_app", "worker", "--loglevel=INFO", "--concurrency=2"]
+    env_file: .env.production
+    environment:
+      DATABASE_URL: postgresql+psycopg://fintwin:${POSTGRES_PASSWORD}@db:5432/fintwin
+      REDIS_URL: redis://redis:6379/0
+      APP_ENV: production
+      UPLOAD_DIR: /data/uploads
+      MODEL_DIR: /data/artifacts
+    volumes: ["fintwin_uploads:/data/uploads", "fintwin_models:/data/artifacts"]
+    depends_on: [db, redis]
+  scheduler:
+    build: ./backend
+    restart: unless-stopped
+    command: ["celery", "-A", "app.main.celery_app", "beat", "--loglevel=INFO"]
+    env_file: .env.production
+    environment:
+      DATABASE_URL: postgresql+psycopg://fintwin:${POSTGRES_PASSWORD}@db:5432/fintwin
+      REDIS_URL: redis://redis:6379/0
+      APP_ENV: production
+      UPLOAD_DIR: /data/uploads
+      MODEL_DIR: /data/artifacts
+    volumes: ["fintwin_uploads:/data/uploads", "fintwin_models:/data/artifacts"]
+    depends_on: [db, redis]
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile.web
+    restart: unless-stopped
+  proxy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    environment: ["PUBLIC_DOMAIN=${PUBLIC_DOMAIN:?Set PUBLIC_DOMAIN}"]
+    ports: ["80:80", "443:443", "443:443/udp"]
+    volumes: ["./Caddyfile:/etc/caddy/Caddyfile:ro", "caddy_data:/data", "caddy_config:/config"]
+    depends_on: [web, api]
+volumes:
+  postgres_data:
+  redis_data:
+  fintwin_uploads:
+  fintwin_models:
+  caddy_data:
+  caddy_config:

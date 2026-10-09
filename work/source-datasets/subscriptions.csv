@@ -1,0 +1,1537 @@
+sub_id,user_id,name,category,amount,active,duplicate_key,last_used_days,recommended_action,reason
+1,1,JioHotstar,Entertainment,181,1,video,25,Keep,Actively used
+2,2,Game Subscription,Gaming,370,1,gaming,17,Keep,Actively used
+3,2,SonyLIV,Entertainment,380,1,video,12,Keep,Actively used
+4,2,iCloud+ Storage,Productivity,143,1,storage,145,Cancel,Unused for 145 days
+5,3,Swiggy One,Food,178,1,food_membership,13,Keep,Actively used
+6,3,Google One Storage,Productivity,194,1,storage,2,Keep,Actively used
+7,4,Zomato Gold,Food,183,1,food_membership,3,Keep,Actively used
+8,5,Gym Membership,Health,2150,1,fitness,13,Keep,Actively used
+9,5,Apple Music,Entertainment,111,1,music,12,Keep,Actively used
+10,5,Zomato Gold,Food,155,1,food_membership,117,Cancel,Duplicate of Swiggy One (food_membership)
+11,5,JioHotstar,Entertainment,248,1,video,2,Keep,Actively used
+12,5,Swiggy One,Food,188,1,food_membership,18,Keep,Actively used
+13,6,Netflix,Entertainment,210,1,video,14,Keep,Actively used
+14,7,YouTube Premium,Entertainment,162,1,music,18,Cancel,Duplicate of Spotify Premium (music)
+15,7,Spotify Premium,Entertainment,119,1,music,18,Keep,Actively used
+16,7,AI Code Assistant,Productivity,870,1,ai_tools,133,Cancel,Unused for 133 days
+17,7,Netflix,Entertainment,450,1,video,91,Cancel,Duplicate of Prime Video (video)
+18,7,Prime Video,Entertainment,292,1,video,9,Keep,Actively used
+19,7,JioHotstar,Entertainment,265,1,video,123,Cancel,Duplicate of Prime Video (video)
+20,8,SonyLIV,Entertainment,388,1,video,11,Keep,Actively used
+21,8,iCloud+ Storage,Productivity,91,1,storage,22,Cancel,Duplicate of Google One Storage (storage)
+22,8,Professional Network Premium,Professional,1900,1,professional,24,Keep,Actively used
+23,8,Google One Storage,Productivity,208,1,storage,17,Keep,Actively used
+24,9,Prime Video,Entertainment,160,1,video,75,Cancel,Unused for 75 days
+25,9,Spotify Premium,Entertainment,128,1,music,22,Keep,Actively used
+26,10,Prime Video,Entertainment,165,1,video,10,Keep,Actively used
+27,10,Netflix,Entertainment,610,1,video,90,Cancel,Duplicate of Prime Video (video)
+28,10,SonyLIV,Entertainment,312,1,video,86,Cancel,Duplicate of Prime Video (video)
+29,10,Fitness App,Health,330,1,fitness,33,Review,Low usage: 33 days since last use
+30,11,Zomato Gold,Food,150,1,food_membership,0,Keep,Actively used
+31,11,Prime Video,Entertainment,165,1,video,21,Keep,Actively used
+32,11,Fitness App,Health,730,1,fitness,6,Keep,Actively used
+33,11,AI Code Assistant,Productivity,880,1,ai_tools,13,Keep,Actively used
+34,12,SonyLIV,Entertainment,295,1,video,22,Keep,Actively used
+35,12,Game Subscription,Gaming,400,1,gaming,44,Review,Low usage: 44 days since last use
+36,13,JioSaavn Pro,Entertainment,99,1,music,21,Keep,Actively used
+37,13,VPN Service,Security,288,1,security,49,Review,Low usage: 49 days since last use
+38,13,AI Assistant Pro,Productivity,1720,1,ai_tools,1,Keep,Actively used
+39,13,Google One Storage,Productivity,180,1,storage,20,Keep,Actively used
+40,14,Fitness App,Health,400,1,fitness,64,Cancel,Unused for 64 days
+41,14,YouTube Premium,Entertainment,185,1,music,17,Keep,Actively used
+42,14,Netflix,Entertainment,420,1,video,19,Keep,Actively used
+43,15,AI Code Assistant,Productivity,910,1,ai_tools,15,Keep,Actively used
+44,15,Apple Music,Entertainment,113,1,music,0,Keep,Actively used
+45,15,JioHotstar,Entertainment,299,1,video,25,Keep,Actively used
+46,16,Spotify Premium,Entertainment,136,1,music,4,Keep,Actively used
+47,16,Zomato Gold,Food,163,1,food_membership,10,Keep,Actively used
+48,16,SonyLIV,Entertainment,193,1,video,16,Keep,Actively used
+49,16,Netflix,Entertainment,180,1,video,112,Cancel,Duplicate of SonyLIV (video)
+50,16,JioHotstar,Entertainment,181,1,video,20,Cancel,Duplicate of SonyLIV (video)
+51,16,iCloud+ Storage,Productivity,100,1,storage,16,Keep,Actively used
+52,17,Zomato Gold,Food,177,1,food_membership,25,Keep,Actively used
+53,17,JioHotstar,Entertainment,206,1,video,72,Cancel,Unused for 72 days
+54,17,Gym Membership,Health,1250,1,fitness,25,Keep,Actively used
+55,18,Swiggy One,Food,160,1,food_membership,125,Cancel,Unused for 125 days
+56,19,YouTube Premium,Entertainment,157,1,music,24,Keep,Actively used
+57,20,JioHotstar,Entertainment,261,1,video,77,Cancel,Unused for 77 days
+58,20,AI Assistant Pro,Productivity,1890,1,ai_tools,5,Keep,Actively used
+59,20,Swiggy One,Food,194,1,food_membership,14,Keep,Actively used
+60,20,Google One Storage,Productivity,206,1,storage,44,Review,Low usage: 44 days since last use
+61,20,Apple Music,Entertainment,103,1,music,8,Keep,Actively used
+62,21,Gym Membership,Health,1520,1,fitness,12,Keep,Actively used
+63,21,Ebook / Audiobook App,Reading,164,1,reading,57,Review,Low usage: 57 days since last use
+64,22,AI Code Assistant,Productivity,830,1,ai_tools,10,Keep,Actively used
+65,22,JioHotstar,Entertainment,266,1,video,78,Cancel,Unused for 78 days
+66,22,Spotify Premium,Entertainment,136,1,music,23,Keep,Actively used
+67,23,Prime Video,Entertainment,276,1,video,131,Cancel,Unused for 131 days
+68,24,AI Code Assistant,Productivity,870,1,ai_tools,24,Keep,Actively used
+69,25,Gym Membership,Health,1960,1,fitness,84,Cancel,Unused for 84 days
+70,25,Prime Video,Entertainment,257,1,video,60,Review,Low usage: 60 days since last use
+71,26,Apple Music,Entertainment,117,1,music,13,Keep,Actively used
+72,27,Gym Membership,Health,2480,1,fitness,85,Cancel,Unused for 85 days
+73,27,News / Magazine App,Reading,201,1,reading,41,Review,Low usage: 41 days since last use
+74,27,Netflix,Entertainment,180,1,video,19,Keep,Actively used
+75,27,Google One Storage,Productivity,153,1,storage,121,Cancel,Unused for 121 days
+76,28,Online Course Platform,Learning,550,1,learning,54,Review,Low usage: 54 days since last use
+77,28,JioHotstar,Entertainment,208,1,video,34,Review,Low usage: 34 days since last use
+78,28,Netflix,Entertainment,490,1,video,91,Cancel,Duplicate of JioHotstar (video)
+79,28,Zomato Gold,Food,162,1,food_membership,17,Keep,Actively used
+80,28,VPN Service,Security,202,1,security,11,Keep,Actively used
+81,29,iCloud+ Storage,Productivity,190,1,storage,15,Keep,Actively used
+82,30,YouTube Premium,Entertainment,167,1,music,6,Keep,Actively used
+83,30,Domain / Hosting,Dev Tools,480,1,dev_tools,88,Cancel,Unused for 88 days
+84,31,Learning App,Learning,510,1,learning,64,Cancel,Unused for 64 days
+85,32,AI Code Assistant,Productivity,940,1,ai_tools,21,Keep,Actively used
+86,32,Spotify Premium,Entertainment,126,1,music,10,Keep,Actively used
+87,32,SonyLIV,Entertainment,238,1,video,114,Cancel,Unused for 114 days
+88,32,Learning App,Learning,300,1,learning,67,Cancel,Unused for 67 days
+89,32,Fitness App,Health,400,1,fitness,5,Keep,Actively used
+90,33,AI Assistant Pro,Productivity,1860,1,ai_tools,14,Keep,Actively used
+91,33,Gym Membership,Health,1140,1,fitness,17,Keep,Actively used
+92,33,Swiggy One,Food,160,1,food_membership,23,Keep,Actively used
+93,33,YouTube Premium,Entertainment,173,1,music,21,Keep,Actively used
+94,33,Netflix,Entertainment,320,1,video,21,Keep,Actively used
+95,34,Game Subscription,Gaming,470,1,gaming,3,Keep,Actively used
+96,35,YouTube Premium,Entertainment,176,1,music,19,Keep,Actively used
+97,35,Gym Membership,Health,2330,1,fitness,13,Keep,Actively used
+98,35,Netflix,Entertainment,540,1,video,90,Cancel,Unused for 90 days
+99,36,Zee5,Entertainment,116,1,video,15,Keep,Actively used
+100,36,SonyLIV,Entertainment,145,1,video,22,Cancel,Duplicate of Zee5 (video)
+101,36,AI Assistant Pro,Productivity,1790,1,ai_tools,9,Keep,Actively used
+102,36,Google One Storage,Productivity,184,1,storage,59,Review,Low usage: 59 days since last use
+103,37,Gym Membership,Health,1670,1,fitness,13,Keep,Actively used
+104,37,News / Magazine App,Reading,226,1,reading,7,Keep,Actively used
+105,37,YouTube Premium,Entertainment,181,1,music,4,Keep,Actively used
+106,37,Prime Video,Entertainment,134,1,video,15,Keep,Actively used
+107,37,Spotify Premium,Entertainment,132,1,music,9,Cancel,Duplicate of YouTube Premium (music)
+108,37,Ebook / Audiobook App,Reading,162,1,reading,88,Cancel,Duplicate of News / Magazine App (reading)
+109,38,iCloud+ Storage,Productivity,129,1,storage,14,Keep,Actively used
+110,39,Apple Music,Entertainment,112,1,music,50,Review,Low usage: 50 days since last use
+111,40,Google One Storage,Productivity,177,1,storage,70,Cancel,Duplicate of iCloud+ Storage (storage)
+112,40,Spotify Premium,Entertainment,134,1,music,2,Keep,Actively used
+113,40,iCloud+ Storage,Productivity,203,1,storage,11,Keep,Actively used
+114,41,iCloud+ Storage,Productivity,105,1,storage,9,Keep,Actively used
+115,41,Prime Video,Entertainment,220,1,video,10,Keep,Actively used
+116,42,Google One Storage,Productivity,136,1,storage,11,Keep,Actively used
+117,42,Zomato Gold,Food,198,1,food_membership,4,Keep,Actively used
+118,42,Spotify Premium,Entertainment,139,1,music,18,Keep,Actively used
+119,42,Netflix,Entertainment,170,1,video,19,Keep,Actively used
+120,43,Zomato Gold,Food,173,1,food_membership,13,Keep,Actively used
+121,43,Prime Video,Entertainment,172,1,video,14,Keep,Actively used
+122,43,AI Assistant Pro,Productivity,1710,1,ai_tools,2,Keep,Actively used
+123,43,Online Course Platform,Learning,650,1,learning,2,Keep,Actively used
+124,44,YouTube Premium,Entertainment,152,1,music,8,Keep,Actively used
+125,45,Netflix,Entertainment,520,1,video,2,Keep,Actively used
+126,45,YouTube Premium,Entertainment,152,1,music,40,Cancel,Duplicate of Spotify Premium (music)
+127,45,Google One Storage,Productivity,182,1,storage,114,Cancel,Unused for 114 days
+128,45,VPN Service,Security,275,1,security,12,Keep,Actively used
+129,45,Spotify Premium,Entertainment,137,1,music,23,Keep,Actively used
+130,46,JioHotstar,Entertainment,214,1,video,13,Keep,Actively used
+131,46,Swiggy One,Food,194,1,food_membership,7,Keep,Actively used
+132,46,Gym Membership,Health,1660,1,fitness,14,Keep,Actively used
+133,47,Online Course Platform,Learning,820,1,learning,35,Review,Low usage: 35 days since last use
+134,47,Swiggy One,Food,174,1,food_membership,20,Keep,Actively used
+135,47,Prime Video,Entertainment,233,1,video,13,Keep,Actively used
+136,48,YouTube Premium,Entertainment,181,1,music,13,Cancel,Duplicate of Spotify Premium (music)
+137,48,Game Subscription,Gaming,400,1,gaming,44,Review,Low usage: 44 days since last use
+138,48,Zomato Gold,Food,158,1,food_membership,128,Cancel,Unused for 128 days
+139,48,JioHotstar,Entertainment,262,1,video,6,Keep,Actively used
+140,48,Spotify Premium,Entertainment,124,1,music,10,Keep,Actively used
+141,48,AI Code Assistant,Productivity,860,1,ai_tools,23,Keep,Actively used
+142,48,Prime Video,Entertainment,160,1,video,8,Cancel,Duplicate of JioHotstar (video)
+143,49,Google One Storage,Productivity,196,1,storage,22,Keep,Actively used
+144,49,AI Assistant Pro,Productivity,1770,1,ai_tools,25,Keep,Actively used
+145,49,News / Magazine App,Reading,213,1,reading,5,Keep,Actively used
+146,49,SonyLIV,Entertainment,271,1,video,23,Cancel,Duplicate of JioHotstar (video)
+147,49,Gym Membership,Health,1250,1,fitness,5,Keep,Actively used
+148,49,Swiggy One,Food,185,1,food_membership,6,Keep,Actively used
+149,49,Online Course Platform,Learning,750,1,learning,86,Cancel,Unused for 86 days
+150,49,JioHotstar,Entertainment,277,1,video,4,Keep,Actively used
+151,50,Zomato Gold,Food,191,1,food_membership,10,Keep,Actively used
+152,50,Spotify Premium,Entertainment,130,1,music,106,Cancel,Unused for 106 days
+153,50,JioHotstar,Entertainment,257,1,video,7,Cancel,Duplicate of Prime Video (video)
+154,50,Prime Video,Entertainment,182,1,video,7,Keep,Actively used
+155,50,iCloud+ Storage,Productivity,165,1,storage,10,Keep,Actively used
+156,51,AI Assistant Pro,Productivity,1860,1,ai_tools,20,Keep,Actively used
+157,51,Swiggy One,Food,160,1,food_membership,11,Keep,Actively used
+158,51,SonyLIV,Entertainment,203,1,video,1,Keep,Actively used
+159,51,Online Course Platform,Learning,850,1,learning,5,Keep,Actively used
+160,51,Prime Video,Entertainment,269,1,video,42,Cancel,Duplicate of SonyLIV (video)
+161,51,JioHotstar,Entertainment,229,1,video,23,Cancel,Duplicate of SonyLIV (video)
+162,51,Zomato Gold,Food,175,1,food_membership,103,Cancel,Duplicate of Swiggy One (food_membership)
+163,52,Spotify Premium,Entertainment,128,1,music,24,Keep,Actively used
+164,53,YouTube Premium,Entertainment,177,1,music,22,Keep,Actively used
+165,53,AI Assistant Pro,Productivity,1820,1,ai_tools,4,Keep,Actively used
+166,53,Netflix,Entertainment,360,1,video,42,Review,Low usage: 42 days since last use
+167,54,Prime Video,Entertainment,201,1,video,10,Cancel,Duplicate of SonyLIV (video)
+168,54,SonyLIV,Entertainment,174,1,video,8,Keep,Actively used
+169,54,Netflix,Entertainment,390,1,video,11,Cancel,Duplicate of SonyLIV (video)
+170,54,Spotify Premium,Entertainment,119,1,music,0,Keep,Actively used
+171,54,Google One Storage,Productivity,166,1,storage,39,Review,Low usage: 39 days since last use
+172,55,VPN Service,Security,253,1,security,67,Cancel,Unused for 67 days
+173,56,JioHotstar,Entertainment,278,1,video,71,Cancel,Unused for 71 days
+174,57,SonyLIV,Entertainment,351,1,video,62,Cancel,Unused for 62 days
+175,58,Prime Video,Entertainment,151,1,video,143,Cancel,Unused for 143 days
+176,58,Spotify Premium,Entertainment,130,1,music,124,Cancel,Unused for 124 days
+177,58,Google One Storage,Productivity,130,1,storage,7,Keep,Actively used
+178,59,Netflix,Entertainment,410,1,video,5,Keep,Actively used
+179,59,Swiggy One,Food,154,1,food_membership,25,Keep,Actively used
+180,60,Google One Storage,Productivity,183,1,storage,5,Keep,Actively used
+181,60,Domain / Hosting,Dev Tools,370,1,dev_tools,0,Keep,Actively used
+182,60,Netflix,Entertainment,300,1,video,21,Keep,Actively used
+183,60,AI Assistant Pro,Productivity,1810,1,ai_tools,4,Keep,Actively used
+184,60,YouTube Premium,Entertainment,157,1,music,23,Keep,Actively used
+185,61,AI Code Assistant,Productivity,820,1,ai_tools,1,Keep,Actively used
+186,61,AI Assistant Pro,Productivity,1960,1,ai_tools,2,Cancel,Duplicate of AI Code Assistant (ai_tools)
+187,61,YouTube Premium,Entertainment,172,1,music,2,Keep,Actively used
+188,62,Professional Network Premium,Professional,1620,1,professional,15,Keep,Actively used
+189,62,Google One Storage,Productivity,148,1,storage,5,Keep,Actively used
+190,62,Fitness App,Health,500,1,fitness,58,Review,Low usage: 58 days since last use
+191,62,Spotify Premium,Entertainment,128,1,music,0,Keep,Actively used
+192,63,Spotify Premium,Entertainment,124,1,music,11,Keep,Actively used
+193,63,Netflix,Entertainment,500,1,video,7,Keep,Actively used
+194,63,Zee5,Entertainment,108,1,video,79,Cancel,Duplicate of Netflix (video)
+195,63,Swiggy One,Food,188,1,food_membership,4,Keep,Actively used
+196,63,AI Assistant Pro,Productivity,1790,1,ai_tools,15,Keep,Actively used
+197,64,JioHotstar,Entertainment,198,1,video,9,Keep,Actively used
+198,64,Ebook / Audiobook App,Reading,182,1,reading,19,Keep,Actively used
+199,65,Apple Music,Entertainment,106,1,music,25,Keep,Actively used
+200,65,SonyLIV,Entertainment,164,1,video,6,Keep,Actively used
+201,66,Swiggy One,Food,152,1,food_membership,4,Keep,Actively used
+202,66,Gym Membership,Health,1240,1,fitness,83,Cancel,Unused for 83 days
+203,67,JioHotstar,Entertainment,181,1,video,10,Keep,Actively used
+204,68,Fitness App,Health,540,1,fitness,5,Keep,Actively used
+205,68,Online Course Platform,Learning,610,1,learning,96,Cancel,Unused for 96 days
+206,68,VPN Service,Security,176,1,security,9,Keep,Actively used
+207,68,JioHotstar,Entertainment,152,1,video,51,Review,Low usage: 51 days since last use
+208,69,Prime Video,Entertainment,297,1,video,24,Keep,Actively used
+209,69,iCloud+ Storage,Productivity,91,1,storage,5,Keep,Actively used
+210,69,Zomato Gold,Food,177,1,food_membership,13,Keep,Actively used
+211,69,Google One Storage,Productivity,157,1,storage,15,Cancel,Duplicate of iCloud+ Storage (storage)
+212,69,Apple Music,Entertainment,116,1,music,24,Keep,Actively used
+213,69,Game Subscription,Gaming,470,1,gaming,19,Keep,Actively used
+214,69,Netflix,Entertainment,270,1,video,131,Cancel,Duplicate of Prime Video (video)
+215,70,Domain / Hosting,Dev Tools,280,1,dev_tools,4,Keep,Actively used
+216,70,Spotify Premium,Entertainment,136,1,music,5,Keep,Actively used
+217,70,Zomato Gold,Food,184,1,food_membership,24,Keep,Actively used
+218,70,Gym Membership,Health,1360,1,fitness,4,Keep,Actively used
+219,70,Fitness App,Health,360,1,fitness,79,Cancel,Duplicate of Gym Membership (fitness)
+220,71,Gym Membership,Health,1160,1,fitness,7,Keep,Actively used
+221,71,JioSaavn Pro,Entertainment,99,1,music,1,Keep,Actively used
+222,71,Spotify Premium,Entertainment,135,1,music,24,Cancel,Duplicate of JioSaavn Pro (music)
+223,71,Fitness App,Health,370,1,fitness,13,Cancel,Duplicate of Gym Membership (fitness)
+224,71,YouTube Premium,Entertainment,152,1,music,20,Cancel,Duplicate of JioSaavn Pro (music)
+225,72,Prime Video,Entertainment,229,1,video,1,Keep,Actively used
+226,72,Spotify Premium,Entertainment,125,1,music,14,Keep,Actively used
+227,72,Game Subscription,Gaming,470,1,gaming,3,Keep,Actively used
+228,72,Swiggy One,Food,163,1,food_membership,85,Cancel,Unused for 85 days
+229,73,JioHotstar,Entertainment,215,1,video,96,Cancel,Unused for 96 days
+230,73,AI Code Assistant,Productivity,920,1,ai_tools,107,Cancel,Unused for 107 days
+231,73,Zomato Gold,Food,179,1,food_membership,16,Keep,Actively used
+232,73,Spotify Premium,Entertainment,120,1,music,19,Keep,Actively used
+233,74,Swiggy One,Food,192,1,food_membership,23,Keep,Actively used
+234,75,Prime Video,Entertainment,150,1,video,11,Keep,Actively used
+235,75,iCloud+ Storage,Productivity,83,1,storage,59,Review,Low usage: 59 days since last use
+236,75,Spotify Premium,Entertainment,137,1,music,8,Keep,Actively used
+237,75,Fitness App,Health,630,1,fitness,142,Cancel,Unused for 142 days
+238,76,Prime Video,Entertainment,214,1,video,19,Keep,Actively used
+239,76,Gym Membership,Health,1300,1,fitness,143,Cancel,Unused for 143 days
+240,76,Swiggy One,Food,163,1,food_membership,8,Keep,Actively used
+241,76,Spotify Premium,Entertainment,128,1,music,18,Keep,Actively used
+242,76,Online Course Platform,Learning,580,1,learning,143,Cancel,Unused for 143 days
+243,77,Domain / Hosting,Dev Tools,270,1,dev_tools,25,Keep,Actively used
+244,78,YouTube Premium,Entertainment,183,1,music,25,Keep,Actively used
+245,78,Zomato Gold,Food,150,1,food_membership,18,Keep,Actively used
+246,78,Spotify Premium,Entertainment,121,1,music,149,Cancel,Duplicate of YouTube Premium (music)
+247,78,Zee5,Entertainment,140,1,video,4,Keep,Actively used
+248,78,Gym Membership,Health,2420,1,fitness,13,Keep,Actively used
+249,78,Online Course Platform,Learning,510,1,learning,23,Keep,Actively used
+250,78,AI Assistant Pro,Productivity,1950,1,ai_tools,20,Keep,Actively used
+251,79,Gym Membership,Health,1910,1,fitness,14,Keep,Actively used
+252,80,JioHotstar,Entertainment,150,1,video,3,Keep,Actively used
+253,80,Spotify Premium,Entertainment,130,1,music,17,Keep,Actively used
+254,81,JioHotstar,Entertainment,245,1,video,118,Cancel,Unused for 118 days
+255,81,Fitness App,Health,330,1,fitness,3,Keep,Actively used
+256,81,AI Code Assistant,Productivity,820,1,ai_tools,4,Keep,Actively used
+257,81,Zomato Gold,Food,197,1,food_membership,6,Keep,Actively used
+258,82,Google One Storage,Productivity,160,1,storage,5,Keep,Actively used
+259,82,Zee5,Entertainment,104,1,video,9,Keep,Actively used
+260,82,Zomato Gold,Food,191,1,food_membership,4,Keep,Actively used
+261,82,Netflix,Entertainment,350,1,video,85,Cancel,Duplicate of Zee5 (video)
+262,83,YouTube Premium,Entertainment,179,1,music,24,Keep,Actively used
+263,83,Zomato Gold,Food,157,1,food_membership,14,Keep,Actively used
+264,84,Online Course Platform,Learning,850,1,learning,31,Review,Low usage: 31 days since last use
+265,84,JioHotstar,Entertainment,268,1,video,1,Keep,Actively used
+266,84,Gym Membership,Health,1370,1,fitness,114,Cancel,Unused for 114 days
+267,84,Domain / Hosting,Dev Tools,340,1,dev_tools,19,Keep,Actively used
+268,85,Zomato Gold,Food,153,1,food_membership,3,Keep,Actively used
+269,85,Google One Storage,Productivity,198,1,storage,76,Cancel,Unused for 76 days
+270,85,Netflix,Entertainment,590,1,video,46,Review,Low usage: 46 days since last use
+271,85,Online Course Platform,Learning,680,1,learning,85,Cancel,Unused for 85 days
+272,85,AI Code Assistant,Productivity,990,1,ai_tools,24,Keep,Actively used
+273,86,Google One Storage,Productivity,132,1,storage,15,Keep,Actively used
+274,86,AI Assistant Pro,Productivity,1800,1,ai_tools,5,Keep,Actively used
+275,86,Prime Video,Entertainment,142,1,video,66,Cancel,Unused for 66 days
+276,87,YouTube Premium,Entertainment,161,1,music,9,Keep,Actively used
+277,87,Online Course Platform,Learning,900,1,learning,16,Keep,Actively used
+278,88,Gym Membership,Health,1290,1,fitness,23,Keep,Actively used
+279,88,Swiggy One,Food,157,1,food_membership,8,Keep,Actively used
+280,88,iCloud+ Storage,Productivity,146,1,storage,17,Keep,Actively used
+281,89,Fitness App,Health,610,1,fitness,48,Review,Low usage: 48 days since last use
+282,89,Zomato Gold,Food,174,1,food_membership,58,Review,Low usage: 58 days since last use
+283,90,iCloud+ Storage,Productivity,214,1,storage,137,Cancel,Duplicate of Google One Storage (storage)
+284,90,Google One Storage,Productivity,187,1,storage,16,Keep,Actively used
+285,90,Professional Network Premium,Professional,1760,1,professional,3,Keep,Actively used
+286,90,Swiggy One,Food,194,1,food_membership,9,Keep,Actively used
+287,91,Swiggy One,Food,194,1,food_membership,103,Cancel,Duplicate of Zomato Gold (food_membership)
+288,91,Zomato Gold,Food,159,1,food_membership,58,Review,Low usage: 58 days since last use
+289,91,Netflix,Entertainment,230,1,video,4,Keep,Actively used
+290,91,Gym Membership,Health,2110,1,fitness,2,Keep,Actively used
+291,92,SonyLIV,Entertainment,271,1,video,126,Cancel,Duplicate of Prime Video (video)
+292,92,Prime Video,Entertainment,133,1,video,7,Keep,Actively used
+293,92,Netflix,Entertainment,430,1,video,11,Cancel,Duplicate of Prime Video (video)
+294,92,Spotify Premium,Entertainment,138,1,music,3,Keep,Actively used
+295,92,JioHotstar,Entertainment,251,1,video,20,Cancel,Duplicate of Prime Video (video)
+296,93,Swiggy One,Food,176,1,food_membership,23,Keep,Actively used
+297,94,Prime Video,Entertainment,188,1,video,21,Keep,Actively used
+298,94,Zomato Gold,Food,191,1,food_membership,12,Keep,Actively used
+299,94,iCloud+ Storage,Productivity,117,1,storage,17,Keep,Actively used
+300,95,Spotify Premium,Entertainment,126,1,music,19,Keep,Actively used
+301,95,JioHotstar,Entertainment,213,1,video,107,Cancel,Unused for 107 days
+302,95,News / Magazine App,Reading,131,1,reading,11,Keep,Actively used
+303,95,Google One Storage,Productivity,159,1,storage,14,Keep,Actively used
+304,96,Swiggy One,Food,187,1,food_membership,20,Cancel,Duplicate of Zomato Gold (food_membership)
+305,96,Spotify Premium,Entertainment,121,1,music,16,Keep,Actively used
+306,96,Game Subscription,Gaming,520,1,gaming,109,Cancel,Unused for 109 days
+307,96,Zomato Gold,Food,193,1,food_membership,5,Keep,Actively used
+308,96,Netflix,Entertainment,200,1,video,42,Review,Low usage: 42 days since last use
+309,97,Apple Music,Entertainment,118,1,music,1,Keep,Actively used
+310,97,Spotify Premium,Entertainment,134,1,music,32,Cancel,Duplicate of Apple Music (music)
+311,98,Prime Video,Entertainment,284,1,video,92,Cancel,Unused for 92 days
+312,98,Online Course Platform,Learning,500,1,learning,41,Review,Low usage: 41 days since last use
+313,98,Learning App,Learning,550,1,learning,66,Cancel,Duplicate of Online Course Platform (learning)
+314,99,Google One Storage,Productivity,139,1,storage,150,Cancel,Unused for 150 days
+315,99,Learning App,Learning,400,1,learning,14,Keep,Actively used
+316,99,Zomato Gold,Food,168,1,food_membership,99,Cancel,Unused for 99 days
+317,100,Fitness App,Health,850,1,fitness,62,Cancel,Unused for 62 days
+318,100,JioHotstar,Entertainment,190,1,video,59,Review,Low usage: 59 days since last use
+319,101,Swiggy One,Food,197,1,food_membership,11,Keep,Actively used
+320,101,Netflix,Entertainment,570,1,video,25,Cancel,Duplicate of Prime Video (video)
+321,101,Prime Video,Entertainment,249,1,video,6,Keep,Actively used
+322,102,Gym Membership,Health,2120,1,fitness,8,Keep,Actively used
+323,102,Spotify Premium,Entertainment,123,1,music,0,Keep,Actively used
+324,102,YouTube Premium,Entertainment,177,1,music,149,Cancel,Duplicate of Spotify Premium (music)
+325,102,Zee5,Entertainment,112,1,video,36,Review,Low usage: 36 days since last use
+326,103,Netflix,Entertainment,460,1,video,77,Cancel,Unused for 77 days
+327,103,JioSaavn Pro,Entertainment,99,1,music,1,Keep,Actively used
+328,104,Netflix,Entertainment,250,1,video,64,Cancel,Duplicate of Prime Video (video)
+329,104,iCloud+ Storage,Productivity,134,1,storage,144,Cancel,Duplicate of Google One Storage (storage)
+330,104,Google One Storage,Productivity,169,1,storage,23,Keep,Actively used
+331,104,Prime Video,Entertainment,292,1,video,18,Keep,Actively used
+332,104,Gym Membership,Health,1890,1,fitness,48,Review,Low usage: 48 days since last use
+333,105,Prime Video,Entertainment,297,1,video,69,Cancel,Duplicate of Netflix (video)
+334,105,Spotify Premium,Entertainment,136,1,music,131,Cancel,Unused for 131 days
+335,105,Netflix,Entertainment,380,1,video,13,Keep,Actively used
+336,106,Prime Video,Entertainment,164,1,video,10,Keep,Actively used
+337,106,JioHotstar,Entertainment,252,1,video,17,Cancel,Duplicate of Prime Video (video)
+338,106,Swiggy One,Food,159,1,food_membership,21,Keep,Actively used
+339,106,Netflix,Entertainment,490,1,video,25,Cancel,Duplicate of Prime Video (video)
+340,107,News / Magazine App,Reading,108,1,reading,24,Keep,Actively used
+341,107,Swiggy One,Food,199,1,food_membership,0,Keep,Actively used
+342,107,Fitness App,Health,420,1,fitness,144,Cancel,Unused for 144 days
+343,107,Prime Video,Entertainment,138,1,video,0,Keep,Actively used
+344,108,Prime Video,Entertainment,161,1,video,10,Keep,Actively used
+345,109,Prime Video,Entertainment,294,1,video,14,Keep,Actively used
+346,110,YouTube Premium,Entertainment,152,1,music,18,Cancel,Duplicate of JioSaavn Pro (music)
+347,110,VPN Service,Security,284,1,security,18,Keep,Actively used
+348,110,JioSaavn Pro,Entertainment,99,1,music,14,Keep,Actively used
+349,111,YouTube Premium,Entertainment,160,1,music,11,Keep,Actively used
+350,111,AI Code Assistant,Productivity,840,1,ai_tools,0,Keep,Actively used
+351,111,Google One Storage,Productivity,189,1,storage,128,Cancel,Duplicate of iCloud+ Storage (storage)
+352,111,iCloud+ Storage,Productivity,212,1,storage,44,Review,Low usage: 44 days since last use
+353,112,Fitness App,Health,750,1,fitness,38,Review,Low usage: 38 days since last use
+354,113,Netflix,Entertainment,430,1,video,13,Cancel,Duplicate of Zee5 (video)
+355,113,JioSaavn Pro,Entertainment,99,1,music,9,Keep,Actively used
+356,113,Zee5,Entertainment,149,1,video,7,Keep,Actively used
+357,114,Prime Video,Entertainment,217,1,video,3,Cancel,Duplicate of Netflix (video)
+358,114,Netflix,Entertainment,390,1,video,1,Keep,Actively used
+359,115,JioHotstar,Entertainment,231,1,video,34,Cancel,Duplicate of Netflix (video)
+360,115,Apple Music,Entertainment,117,1,music,20,Cancel,Duplicate of YouTube Premium (music)
+361,115,Netflix,Entertainment,560,1,video,8,Keep,Actively used
+362,115,YouTube Premium,Entertainment,188,1,music,15,Keep,Actively used
+363,115,AI Code Assistant,Productivity,860,1,ai_tools,14,Keep,Actively used
+364,116,Zomato Gold,Food,151,1,food_membership,15,Keep,Actively used
+365,116,iCloud+ Storage,Productivity,177,1,storage,5,Keep,Actively used
+366,117,Google One Storage,Productivity,166,1,storage,78,Cancel,Unused for 78 days
+367,118,JioHotstar,Entertainment,252,1,video,1,Keep,Actively used
+368,119,Prime Video,Entertainment,141,1,video,147,Cancel,Duplicate of JioHotstar (video)
+369,119,JioHotstar,Entertainment,272,1,video,19,Keep,Actively used
+370,119,YouTube Premium,Entertainment,175,1,music,11,Cancel,Duplicate of Spotify Premium (music)
+371,119,Netflix,Entertainment,210,1,video,41,Cancel,Duplicate of JioHotstar (video)
+372,119,Spotify Premium,Entertainment,131,1,music,5,Keep,Actively used
+373,120,Zomato Gold,Food,155,1,food_membership,18,Keep,Actively used
+374,120,Zee5,Entertainment,108,1,video,7,Keep,Actively used
+375,120,JioHotstar,Entertainment,153,1,video,79,Cancel,Duplicate of Zee5 (video)
+376,120,Gym Membership,Health,2500,1,fitness,23,Keep,Actively used
+377,121,Zee5,Entertainment,129,1,video,144,Cancel,Duplicate of Netflix (video)
+378,121,Spotify Premium,Entertainment,131,1,music,9,Keep,Actively used
+379,121,Netflix,Entertainment,270,1,video,15,Keep,Actively used
+380,121,Prime Video,Entertainment,260,1,video,18,Cancel,Duplicate of Netflix (video)
+381,122,Google One Storage,Productivity,141,1,storage,25,Keep,Actively used
+382,122,Netflix,Entertainment,410,1,video,12,Keep,Actively used
+383,123,Gym Membership,Health,1830,1,fitness,51,Review,Low usage: 51 days since last use
+384,123,AI Code Assistant,Productivity,930,1,ai_tools,19,Keep,Actively used
+385,124,Apple Music,Entertainment,118,1,music,8,Keep,Actively used
+386,124,Zomato Gold,Food,163,1,food_membership,0,Keep,Actively used
+387,125,News / Magazine App,Reading,194,1,reading,129,Cancel,Unused for 129 days
+388,126,Google One Storage,Productivity,171,1,storage,15,Keep,Actively used
+389,126,JioHotstar,Entertainment,204,1,video,25,Keep,Actively used
+390,126,JioSaavn Pro,Entertainment,99,1,music,22,Keep,Actively used
+391,126,Ebook / Audiobook App,Reading,161,1,reading,106,Cancel,Unused for 106 days
+392,127,YouTube Premium,Entertainment,149,1,music,18,Cancel,Duplicate of Spotify Premium (music)
+393,127,Zomato Gold,Food,154,1,food_membership,22,Keep,Actively used
+394,127,Google One Storage,Productivity,166,1,storage,81,Cancel,Unused for 81 days
+395,127,JioHotstar,Entertainment,158,1,video,19,Keep,Actively used
+396,127,Spotify Premium,Entertainment,127,1,music,6,Keep,Actively used
+397,127,Game Subscription,Gaming,380,1,gaming,81,Cancel,Unused for 81 days
+398,127,Prime Video,Entertainment,136,1,video,57,Cancel,Duplicate of JioHotstar (video)
+399,127,Netflix,Entertainment,290,1,video,25,Cancel,Duplicate of JioHotstar (video)
+400,128,Gym Membership,Health,2120,1,fitness,9,Keep,Actively used
+401,128,Google One Storage,Productivity,192,1,storage,96,Cancel,Unused for 96 days
+402,128,Spotify Premium,Entertainment,121,1,music,21,Keep,Actively used
+403,128,Prime Video,Entertainment,267,1,video,114,Cancel,Unused for 114 days
+404,129,Netflix,Entertainment,200,1,video,143,Cancel,Duplicate of Prime Video (video)
+405,129,Google One Storage,Productivity,179,1,storage,17,Keep,Actively used
+406,129,Prime Video,Entertainment,212,1,video,101,Cancel,Unused for 101 days
+407,129,YouTube Premium,Entertainment,151,1,music,13,Keep,Actively used
+408,130,Fitness App,Health,650,1,fitness,60,Review,Low usage: 60 days since last use
+409,131,YouTube Premium,Entertainment,167,1,music,7,Keep,Actively used
+410,131,Prime Video,Entertainment,154,1,video,9,Keep,Actively used
+411,132,Swiggy One,Food,165,1,food_membership,13,Keep,Actively used
+412,132,Professional Network Premium,Professional,2170,1,professional,4,Keep,Actively used
+413,133,AI Code Assistant,Productivity,860,1,ai_tools,111,Cancel,Unused for 111 days
+414,134,Zomato Gold,Food,170,1,food_membership,33,Cancel,Duplicate of Swiggy One (food_membership)
+415,134,Swiggy One,Food,184,1,food_membership,14,Keep,Actively used
+416,134,Netflix,Entertainment,500,1,video,62,Cancel,Duplicate of Prime Video (video)
+417,134,Prime Video,Entertainment,247,1,video,1,Keep,Actively used
+418,134,Spotify Premium,Entertainment,133,1,music,21,Keep,Actively used
+419,135,Prime Video,Entertainment,272,1,video,24,Keep,Actively used
+420,135,iCloud+ Storage,Productivity,84,1,storage,12,Keep,Actively used
+421,136,Fitness App,Health,650,1,fitness,6,Keep,Actively used
+422,136,Spotify Premium,Entertainment,124,1,music,96,Cancel,Unused for 96 days
+423,136,Netflix,Entertainment,270,1,video,2,Keep,Actively used
+424,136,AI Assistant Pro,Productivity,1930,1,ai_tools,9,Keep,Actively used
+425,136,JioHotstar,Entertainment,227,1,video,61,Cancel,Duplicate of Netflix (video)
+426,137,Netflix,Entertainment,390,1,video,13,Keep,Actively used
+427,138,News / Magazine App,Reading,189,1,reading,7,Keep,Actively used
+428,138,Apple Music,Entertainment,114,1,music,139,Cancel,Duplicate of Spotify Premium (music)
+429,138,Spotify Premium,Entertainment,129,1,music,8,Keep,Actively used
+430,138,Gym Membership,Health,2440,1,fitness,11,Keep,Actively used
+431,139,SonyLIV,Entertainment,318,1,video,8,Keep,Actively used
+432,139,Spotify Premium,Entertainment,135,1,music,22,Keep,Actively used
+433,139,Learning App,Learning,250,1,learning,145,Cancel,Unused for 145 days
+434,140,JioHotstar,Entertainment,254,1,video,14,Keep,Actively used
+435,140,Zee5,Entertainment,140,1,video,18,Cancel,Duplicate of JioHotstar (video)
+436,140,AI Code Assistant,Productivity,1000,1,ai_tools,12,Keep,Actively used
+437,140,AI Assistant Pro,Productivity,1850,1,ai_tools,115,Cancel,Duplicate of AI Code Assistant (ai_tools)
+438,140,Online Course Platform,Learning,1020,1,learning,57,Review,Low usage: 57 days since last use
+439,141,AI Assistant Pro,Productivity,1790,1,ai_tools,4,Keep,Actively used
+440,141,Spotify Premium,Entertainment,131,1,music,1,Keep,Actively used
+441,142,Professional Network Premium,Professional,1960,1,professional,60,Review,Low usage: 60 days since last use
+442,142,Google One Storage,Productivity,179,1,storage,10,Keep,Actively used
+443,142,Spotify Premium,Entertainment,137,1,music,6,Keep,Actively used
+444,142,AI Assistant Pro,Productivity,1910,1,ai_tools,16,Keep,Actively used
+445,143,AI Assistant Pro,Productivity,1980,1,ai_tools,13,Keep,Actively used
+446,143,Gym Membership,Health,2410,1,fitness,11,Keep,Actively used
+447,143,Prime Video,Entertainment,292,1,video,12,Keep,Actively used
+448,143,News / Magazine App,Reading,131,1,reading,86,Cancel,Unused for 86 days
+449,143,Fitness App,Health,960,1,fitness,93,Cancel,Duplicate of Gym Membership (fitness)
+450,144,JioHotstar,Entertainment,185,1,video,23,Keep,Actively used
+451,144,News / Magazine App,Reading,102,1,reading,9,Keep,Actively used
+452,144,Game Subscription,Gaming,540,1,gaming,90,Cancel,Unused for 90 days
+453,144,iCloud+ Storage,Productivity,113,1,storage,22,Keep,Actively used
+454,145,Fitness App,Health,420,1,fitness,10,Keep,Actively used
+455,145,Gym Membership,Health,1680,1,fitness,38,Cancel,Duplicate of Fitness App (fitness)
+456,145,Online Course Platform,Learning,710,1,learning,9,Keep,Actively used
+457,146,JioHotstar,Entertainment,238,1,video,23,Keep,Actively used
+458,146,YouTube Premium,Entertainment,173,1,music,61,Cancel,Unused for 61 days
+459,146,Fitness App,Health,420,1,fitness,51,Review,Low usage: 51 days since last use
+460,147,YouTube Premium,Entertainment,176,1,music,78,Cancel,Unused for 78 days
+461,147,Zomato Gold,Food,165,1,food_membership,4,Keep,Actively used
+462,148,Prime Video,Entertainment,269,1,video,23,Keep,Actively used
+463,148,Google One Storage,Productivity,207,1,storage,15,Keep,Actively used
+464,148,Spotify Premium,Entertainment,127,1,music,99,Cancel,Unused for 99 days
+465,149,Gym Membership,Health,1620,1,fitness,14,Keep,Actively used
+466,150,Spotify Premium,Entertainment,122,1,music,6,Keep,Actively used
+467,151,JioHotstar,Entertainment,276,1,video,20,Keep,Actively used
+468,152,Spotify Premium,Entertainment,129,1,music,11,Keep,Actively used
+469,153,JioHotstar,Entertainment,276,1,video,25,Keep,Actively used
+470,153,Online Course Platform,Learning,610,1,learning,5,Keep,Actively used
+471,153,Game Subscription,Gaming,480,1,gaming,36,Review,Low usage: 36 days since last use
+472,154,Zomato Gold,Food,152,1,food_membership,50,Review,Low usage: 50 days since last use
+473,154,JioHotstar,Entertainment,159,1,video,24,Keep,Actively used
+474,154,SonyLIV,Entertainment,325,1,video,105,Cancel,Duplicate of JioHotstar (video)
+475,155,YouTube Premium,Entertainment,157,1,music,2,Keep,Actively used
+476,156,Online Course Platform,Learning,1190,1,learning,104,Cancel,Unused for 104 days
+477,156,News / Magazine App,Reading,211,1,reading,24,Keep,Actively used
+478,156,Netflix,Entertainment,520,1,video,118,Cancel,Unused for 118 days
+479,156,VPN Service,Security,202,1,security,85,Cancel,Unused for 85 days
+480,156,AI Assistant Pro,Productivity,1910,1,ai_tools,19,Keep,Actively used
+481,156,Gym Membership,Health,2180,1,fitness,15,Keep,Actively used
+482,157,Netflix,Entertainment,530,1,video,6,Keep,Actively used
+483,157,News / Magazine App,Reading,243,1,reading,121,Cancel,Unused for 121 days
+484,158,JioHotstar,Entertainment,251,1,video,13,Keep,Actively used
+485,158,Professional Network Premium,Professional,2190,1,professional,18,Keep,Actively used
+486,158,Online Course Platform,Learning,460,1,learning,3,Keep,Actively used
+487,158,Prime Video,Entertainment,212,1,video,103,Cancel,Duplicate of JioHotstar (video)
+488,159,Learning App,Learning,530,1,learning,10,Keep,Actively used
+489,160,AI Assistant Pro,Productivity,1720,1,ai_tools,24,Keep,Actively used
+490,161,YouTube Premium,Entertainment,184,1,music,23,Keep,Actively used
+491,162,JioHotstar,Entertainment,281,1,video,3,Keep,Actively used
+492,162,Ebook / Audiobook App,Reading,170,1,reading,84,Cancel,Unused for 84 days
+493,162,YouTube Premium,Entertainment,186,1,music,4,Keep,Actively used
+494,163,Gym Membership,Health,1270,1,fitness,40,Review,Low usage: 40 days since last use
+495,164,AI Assistant Pro,Productivity,1830,1,ai_tools,21,Keep,Actively used
+496,164,Zomato Gold,Food,149,1,food_membership,5,Keep,Actively used
+497,164,Gym Membership,Health,1730,1,fitness,20,Keep,Actively used
+498,164,Apple Music,Entertainment,117,1,music,16,Keep,Actively used
+499,165,JioHotstar,Entertainment,286,1,video,2,Keep,Actively used
+500,165,Prime Video,Entertainment,231,1,video,6,Cancel,Duplicate of JioHotstar (video)
+501,165,Domain / Hosting,Dev Tools,330,1,dev_tools,9,Keep,Actively used
+502,165,Google One Storage,Productivity,168,1,storage,64,Cancel,Unused for 64 days
+503,166,JioSaavn Pro,Entertainment,99,1,music,55,Review,Low usage: 55 days since last use
+504,166,JioHotstar,Entertainment,263,1,video,73,Cancel,Unused for 73 days
+505,167,Netflix,Entertainment,410,1,video,87,Cancel,Unused for 87 days
+506,167,Gym Membership,Health,1390,1,fitness,22,Keep,Actively used
+507,168,SonyLIV,Entertainment,329,1,video,78,Cancel,Unused for 78 days
+508,169,Swiggy One,Food,170,1,food_membership,13,Keep,Actively used
+509,170,News / Magazine App,Reading,240,1,reading,3,Keep,Actively used
+510,170,YouTube Premium,Entertainment,183,1,music,13,Keep,Actively used
+511,171,Netflix,Entertainment,340,1,video,97,Cancel,Duplicate of JioHotstar (video)
+512,171,SonyLIV,Entertainment,340,1,video,133,Cancel,Duplicate of JioHotstar (video)
+513,171,JioHotstar,Entertainment,202,1,video,23,Keep,Actively used
+514,172,Gym Membership,Health,1530,1,fitness,18,Keep,Actively used
+515,172,SonyLIV,Entertainment,247,1,video,13,Cancel,Duplicate of Prime Video (video)
+516,172,Google One Storage,Productivity,173,1,storage,77,Cancel,Unused for 77 days
+517,172,Prime Video,Entertainment,155,1,video,5,Keep,Actively used
+518,172,YouTube Premium,Entertainment,150,1,music,9,Keep,Actively used
+519,172,Online Course Platform,Learning,730,1,learning,3,Keep,Actively used
+520,172,AI Code Assistant,Productivity,950,1,ai_tools,9,Keep,Actively used
+521,173,Zomato Gold,Food,153,1,food_membership,20,Keep,Actively used
+522,173,Netflix,Entertainment,640,1,video,64,Cancel,Unused for 64 days
+523,173,JioSaavn Pro,Entertainment,99,1,music,17,Cancel,Duplicate of Spotify Premium (music)
+524,173,Spotify Premium,Entertainment,129,1,music,9,Keep,Actively used
+525,174,JioHotstar,Entertainment,186,1,video,24,Keep,Actively used
+526,175,iCloud+ Storage,Productivity,103,1,storage,39,Review,Low usage: 39 days since last use
+527,175,Spotify Premium,Entertainment,139,1,music,20,Keep,Actively used
+528,176,News / Magazine App,Reading,110,1,reading,15,Keep,Actively used
+529,176,YouTube Premium,Entertainment,173,1,music,51,Review,Low usage: 51 days since last use
+530,176,JioHotstar,Entertainment,179,1,video,8,Keep,Actively used
+531,176,Gym Membership,Health,2110,1,fitness,59,Review,Low usage: 59 days since last use
+532,176,Netflix,Entertainment,270,1,video,42,Cancel,Duplicate of JioHotstar (video)
+533,176,SonyLIV,Entertainment,218,1,video,136,Cancel,Duplicate of JioHotstar (video)
+534,176,iCloud+ Storage,Productivity,152,1,storage,20,Keep,Actively used
+535,177,YouTube Premium,Entertainment,157,1,music,25,Keep,Actively used
+536,177,Swiggy One,Food,190,1,food_membership,6,Keep,Actively used
+537,177,Domain / Hosting,Dev Tools,330,1,dev_tools,16,Keep,Actively used
+538,178,AI Assistant Pro,Productivity,1990,1,ai_tools,22,Keep,Actively used
+539,178,Spotify Premium,Entertainment,130,1,music,3,Keep,Actively used
+540,179,Google One Storage,Productivity,174,1,storage,6,Keep,Actively used
+541,179,Gym Membership,Health,1070,1,fitness,25,Keep,Actively used
+542,180,Google One Storage,Productivity,139,1,storage,148,Cancel,Unused for 148 days
+543,181,Gym Membership,Health,2340,1,fitness,70,Cancel,Unused for 70 days
+544,181,Swiggy One,Food,163,1,food_membership,22,Keep,Actively used
+545,182,Google One Storage,Productivity,207,1,storage,11,Keep,Actively used
+546,182,Fitness App,Health,890,1,fitness,32,Review,Low usage: 32 days since last use
+547,182,SonyLIV,Entertainment,398,1,video,20,Keep,Actively used
+548,183,News / Magazine App,Reading,158,1,reading,127,Cancel,Unused for 127 days
+549,183,Learning App,Learning,420,1,learning,77,Cancel,Unused for 77 days
+550,183,SonyLIV,Entertainment,306,1,video,14,Keep,Actively used
+551,183,Apple Music,Entertainment,100,1,music,13,Keep,Actively used
+552,183,Google One Storage,Productivity,163,1,storage,25,Keep,Actively used
+553,184,AI Assistant Pro,Productivity,1830,1,ai_tools,74,Cancel,Unused for 74 days
+554,184,Prime Video,Entertainment,267,1,video,85,Cancel,Unused for 85 days
+555,184,Spotify Premium,Entertainment,138,1,music,24,Keep,Actively used
+556,185,Prime Video,Entertainment,290,1,video,1,Keep,Actively used
+557,185,AI Code Assistant,Productivity,880,1,ai_tools,149,Cancel,Unused for 149 days
+558,186,JioHotstar,Entertainment,190,1,video,9,Keep,Actively used
+559,186,Spotify Premium,Entertainment,125,1,music,8,Keep,Actively used
+560,186,Online Course Platform,Learning,910,1,learning,14,Keep,Actively used
+561,186,Google One Storage,Productivity,157,1,storage,8,Keep,Actively used
+562,187,AI Code Assistant,Productivity,940,1,ai_tools,7,Cancel,Duplicate of AI Assistant Pro (ai_tools)
+563,187,Spotify Premium,Entertainment,137,1,music,13,Keep,Actively used
+564,187,AI Assistant Pro,Productivity,1790,1,ai_tools,4,Keep,Actively used
+565,188,Google One Storage,Productivity,197,1,storage,8,Keep,Actively used
+566,188,Gym Membership,Health,1810,1,fitness,16,Keep,Actively used
+567,189,Spotify Premium,Entertainment,128,1,music,25,Keep,Actively used
+568,189,Netflix,Entertainment,360,1,video,8,Keep,Actively used
+569,190,JioHotstar,Entertainment,200,1,video,12,Keep,Actively used
+570,190,Ebook / Audiobook App,Reading,193,1,reading,127,Cancel,Unused for 127 days
+571,190,Netflix,Entertainment,540,1,video,121,Cancel,Duplicate of JioHotstar (video)
+572,190,YouTube Premium,Entertainment,164,1,music,18,Keep,Actively used
+573,190,Swiggy One,Food,160,1,food_membership,3,Keep,Actively used
+574,190,iCloud+ Storage,Productivity,99,1,storage,3,Keep,Actively used
+575,191,Gym Membership,Health,1950,1,fitness,3,Keep,Actively used
+576,191,News / Magazine App,Reading,191,1,reading,103,Cancel,Unused for 103 days
+577,191,Game Subscription,Gaming,370,1,gaming,22,Keep,Actively used
+578,191,Zomato Gold,Food,164,1,food_membership,8,Keep,Actively used
+579,192,JioHotstar,Entertainment,247,1,video,35,Review,Low usage: 35 days since last use
+580,192,News / Magazine App,Reading,141,1,reading,15,Keep,Actively used
+581,192,VPN Service,Security,258,1,security,19,Keep,Actively used
+582,192,iCloud+ Storage,Productivity,156,1,storage,25,Keep,Actively used
+583,192,YouTube Premium,Entertainment,183,1,music,23,Keep,Actively used
+584,193,Zomato Gold,Food,181,1,food_membership,21,Keep,Actively used
+585,193,Google One Storage,Productivity,193,1,storage,12,Keep,Actively used
+586,193,YouTube Premium,Entertainment,165,1,music,18,Keep,Actively used
+587,194,JioHotstar,Entertainment,183,1,video,71,Cancel,Unused for 71 days
+588,194,Prime Video,Entertainment,265,1,video,146,Cancel,Duplicate of JioHotstar (video)
+589,194,Swiggy One,Food,159,1,food_membership,12,Cancel,Duplicate of Zomato Gold (food_membership)
+590,194,Zomato Gold,Food,163,1,food_membership,11,Keep,Actively used
+591,195,Zomato Gold,Food,152,1,food_membership,7,Cancel,Duplicate of Swiggy One (food_membership)
+592,195,Prime Video,Entertainment,183,1,video,16,Keep,Actively used
+593,195,Swiggy One,Food,157,1,food_membership,0,Keep,Actively used
+594,195,Spotify Premium,Entertainment,128,1,music,11,Keep,Actively used
+595,196,Netflix,Entertainment,270,1,video,15,Keep,Actively used
+596,196,iCloud+ Storage,Productivity,142,1,storage,23,Keep,Actively used
+597,197,Prime Video,Entertainment,145,1,video,21,Keep,Actively used
+598,197,iCloud+ Storage,Productivity,198,1,storage,134,Cancel,Unused for 134 days
+599,197,Online Course Platform,Learning,640,1,learning,2,Keep,Actively used
+600,197,Zomato Gold,Food,174,1,food_membership,23,Keep,Actively used
+601,198,JioHotstar,Entertainment,243,1,video,24,Keep,Actively used
+602,198,Spotify Premium,Entertainment,132,1,music,17,Keep,Actively used
+603,198,Learning App,Learning,450,1,learning,116,Cancel,Unused for 116 days
+604,198,Apple Music,Entertainment,106,1,music,25,Cancel,Duplicate of Spotify Premium (music)
+605,199,VPN Service,Security,240,1,security,11,Keep,Actively used
+606,199,AI Code Assistant,Productivity,860,1,ai_tools,6,Keep,Actively used
+607,199,Netflix,Entertainment,220,1,video,106,Cancel,Unused for 106 days
+608,200,Prime Video,Entertainment,259,1,video,19,Keep,Actively used
+609,200,Google One Storage,Productivity,151,1,storage,22,Keep,Actively used
+610,200,YouTube Premium,Entertainment,151,1,music,15,Keep,Actively used
+611,201,JioHotstar,Entertainment,196,1,video,129,Cancel,Duplicate of Prime Video (video)
+612,201,Spotify Premium,Entertainment,131,1,music,2,Keep,Actively used
+613,201,Google One Storage,Productivity,197,1,storage,10,Keep,Actively used
+614,201,Gym Membership,Health,1850,1,fitness,31,Review,Low usage: 31 days since last use
+615,201,Prime Video,Entertainment,128,1,video,14,Keep,Actively used
+616,201,Game Subscription,Gaming,530,1,gaming,5,Keep,Actively used
+617,202,Google One Storage,Productivity,202,1,storage,116,Cancel,Unused for 116 days
+618,202,Zomato Gold,Food,167,1,food_membership,51,Review,Low usage: 51 days since last use
+619,203,Prime Video,Entertainment,227,1,video,37,Cancel,Duplicate of Netflix (video)
+620,203,Spotify Premium,Entertainment,136,1,music,43,Review,Low usage: 43 days since last use
+621,203,Netflix,Entertainment,450,1,video,6,Keep,Actively used
+622,204,Spotify Premium,Entertainment,130,1,music,9,Keep,Actively used
+623,204,Game Subscription,Gaming,490,1,gaming,18,Keep,Actively used
+624,204,Professional Network Premium,Professional,1500,1,professional,74,Cancel,Unused for 74 days
+625,204,Gym Membership,Health,2430,1,fitness,109,Cancel,Unused for 109 days
+626,204,News / Magazine App,Reading,176,1,reading,121,Cancel,Unused for 121 days
+627,205,JioHotstar,Entertainment,150,1,video,0,Keep,Actively used
+628,205,Spotify Premium,Entertainment,122,1,music,6,Keep,Actively used
+629,205,Prime Video,Entertainment,230,1,video,125,Cancel,Duplicate of JioHotstar (video)
+630,206,VPN Service,Security,212,1,security,70,Cancel,Unused for 70 days
+631,207,Zomato Gold,Food,160,1,food_membership,18,Keep,Actively used
+632,207,Zee5,Entertainment,149,1,video,32,Review,Low usage: 32 days since last use
+633,208,Google One Storage,Productivity,138,1,storage,1,Keep,Actively used
+634,208,VPN Service,Security,157,1,security,44,Review,Low usage: 44 days since last use
+635,208,Prime Video,Entertainment,165,1,video,23,Keep,Actively used
+636,208,Online Course Platform,Learning,480,1,learning,23,Keep,Actively used
+637,208,JioHotstar,Entertainment,247,1,video,25,Cancel,Duplicate of Prime Video (video)
+638,208,Game Subscription,Gaming,550,1,gaming,24,Keep,Actively used
+639,208,Gym Membership,Health,1050,1,fitness,124,Cancel,Unused for 124 days
+640,209,Netflix,Entertainment,270,1,video,5,Keep,Actively used
+641,210,Google One Storage,Productivity,187,1,storage,11,Keep,Actively used
+642,211,Gym Membership,Health,1260,1,fitness,63,Cancel,Unused for 63 days
+643,211,Prime Video,Entertainment,290,1,video,0,Keep,Actively used
+644,211,Netflix,Entertainment,190,1,video,10,Cancel,Duplicate of Prime Video (video)
+645,211,VPN Service,Security,296,1,security,15,Keep,Actively used
+646,212,Gym Membership,Health,2210,1,fitness,67,Cancel,Unused for 67 days
+647,212,YouTube Premium,Entertainment,186,1,music,20,Keep,Actively used
+648,212,Spotify Premium,Entertainment,127,1,music,40,Cancel,Duplicate of YouTube Premium (music)
+649,212,Google One Storage,Productivity,203,1,storage,2,Keep,Actively used
+650,213,AI Code Assistant,Productivity,990,1,ai_tools,17,Keep,Actively used
+651,213,Zee5,Entertainment,143,1,video,3,Keep,Actively used
+652,213,YouTube Premium,Entertainment,160,1,music,0,Keep,Actively used
+653,214,Game Subscription,Gaming,480,1,gaming,129,Cancel,Unused for 129 days
+654,214,Spotify Premium,Entertainment,131,1,music,1,Keep,Actively used
+655,214,Domain / Hosting,Dev Tools,380,1,dev_tools,12,Keep,Actively used
+656,214,Google One Storage,Productivity,142,1,storage,39,Review,Low usage: 39 days since last use
+657,214,Zomato Gold,Food,179,1,food_membership,6,Keep,Actively used
+658,214,JioHotstar,Entertainment,266,1,video,24,Cancel,Duplicate of Prime Video (video)
+659,214,Prime Video,Entertainment,144,1,video,8,Keep,Actively used
+660,214,AI Assistant Pro,Productivity,1850,1,ai_tools,59,Review,Low usage: 59 days since last use
+661,215,AI Assistant Pro,Productivity,1790,1,ai_tools,17,Keep,Actively used
+662,215,Zomato Gold,Food,168,1,food_membership,3,Keep,Actively used
+663,215,Zee5,Entertainment,107,1,video,12,Keep,Actively used
+664,216,Swiggy One,Food,154,1,food_membership,18,Keep,Actively used
+665,216,Fitness App,Health,800,1,fitness,3,Keep,Actively used
+666,217,Gym Membership,Health,1080,1,fitness,35,Review,Low usage: 35 days since last use
+667,217,Google One Storage,Productivity,167,1,storage,70,Cancel,Unused for 70 days
+668,217,YouTube Premium,Entertainment,184,1,music,124,Cancel,Unused for 124 days
+669,217,Professional Network Premium,Professional,2230,1,professional,20,Keep,Actively used
+670,217,Prime Video,Entertainment,251,1,video,0,Keep,Actively used
+671,218,AI Assistant Pro,Productivity,1820,1,ai_tools,22,Keep,Actively used
+672,219,YouTube Premium,Entertainment,174,1,music,11,Keep,Actively used
+673,219,Swiggy One,Food,160,1,food_membership,19,Keep,Actively used
+674,219,Netflix,Entertainment,230,1,video,10,Keep,Actively used
+675,220,Gym Membership,Health,1650,1,fitness,20,Keep,Actively used
+676,220,Zomato Gold,Food,178,1,food_membership,18,Keep,Actively used
+677,221,Online Course Platform,Learning,860,1,learning,104,Cancel,Unused for 104 days
+678,221,SonyLIV,Entertainment,383,1,video,16,Cancel,Duplicate of JioHotstar (video)
+679,221,JioHotstar,Entertainment,219,1,video,12,Keep,Actively used
+680,222,Online Course Platform,Learning,1130,1,learning,37,Review,Low usage: 37 days since last use
+681,222,Zomato Gold,Food,160,1,food_membership,8,Keep,Actively used
+682,222,Netflix,Entertainment,560,1,video,22,Keep,Actively used
+683,222,VPN Service,Security,277,1,security,21,Keep,Actively used
+684,222,Ebook / Audiobook App,Reading,157,1,reading,3,Keep,Actively used
+685,222,AI Code Assistant,Productivity,950,1,ai_tools,87,Cancel,Unused for 87 days
+686,223,Swiggy One,Food,187,1,food_membership,1,Keep,Actively used
+687,223,Prime Video,Entertainment,150,1,video,3,Keep,Actively used
+688,224,Ebook / Audiobook App,Reading,154,1,reading,125,Cancel,Unused for 125 days
+689,224,Prime Video,Entertainment,285,1,video,1,Keep,Actively used
+690,224,Google One Storage,Productivity,177,1,storage,53,Review,Low usage: 53 days since last use
+691,224,Spotify Premium,Entertainment,136,1,music,43,Review,Low usage: 43 days since last use
+692,224,Netflix,Entertainment,180,1,video,13,Cancel,Duplicate of Prime Video (video)
+693,224,Game Subscription,Gaming,540,1,gaming,1,Keep,Actively used
+694,225,Prime Video,Entertainment,260,1,video,9,Cancel,Duplicate of JioHotstar (video)
+695,225,AI Code Assistant,Productivity,850,1,ai_tools,1,Keep,Actively used
+696,225,Spotify Premium,Entertainment,125,1,music,18,Keep,Actively used
+697,225,JioHotstar,Entertainment,231,1,video,9,Keep,Actively used
+698,226,JioHotstar,Entertainment,227,1,video,7,Keep,Actively used
+699,227,AI Assistant Pro,Productivity,1870,1,ai_tools,57,Review,Low usage: 57 days since last use
+700,227,YouTube Premium,Entertainment,185,1,music,100,Cancel,Duplicate of Spotify Premium (music)
+701,227,Spotify Premium,Entertainment,136,1,music,12,Keep,Actively used
+702,227,Google One Storage,Productivity,198,1,storage,2,Keep,Actively used
+703,227,Fitness App,Health,640,1,fitness,34,Review,Low usage: 34 days since last use
+704,227,Zomato Gold,Food,180,1,food_membership,7,Keep,Actively used
+705,227,VPN Service,Security,199,1,security,24,Keep,Actively used
+706,227,Swiggy One,Food,186,1,food_membership,18,Cancel,Duplicate of Zomato Gold (food_membership)
+707,227,Prime Video,Entertainment,126,1,video,95,Cancel,Unused for 95 days
+708,228,Gym Membership,Health,2390,1,fitness,115,Cancel,Unused for 115 days
+709,229,Spotify Premium,Entertainment,137,1,music,18,Keep,Actively used
+710,230,JioSaavn Pro,Entertainment,99,1,music,16,Keep,Actively used
+711,230,AI Assistant Pro,Productivity,1990,1,ai_tools,16,Keep,Actively used
+712,231,AI Code Assistant,Productivity,880,1,ai_tools,3,Keep,Actively used
+713,232,Prime Video,Entertainment,280,1,video,149,Cancel,Duplicate of Netflix (video)
+714,232,Spotify Premium,Entertainment,138,1,music,18,Keep,Actively used
+715,232,Netflix,Entertainment,340,1,video,57,Review,Low usage: 57 days since last use
+716,233,Netflix,Entertainment,290,1,video,6,Keep,Actively used
+717,233,iCloud+ Storage,Productivity,87,1,storage,16,Keep,Actively used
+718,234,JioHotstar,Entertainment,208,1,video,20,Cancel,Duplicate of Netflix (video)
+719,234,Spotify Premium,Entertainment,130,1,music,4,Keep,Actively used
+720,234,Game Subscription,Gaming,390,1,gaming,0,Keep,Actively used
+721,234,Netflix,Entertainment,560,1,video,1,Keep,Actively used
+722,234,Zee5,Entertainment,111,1,video,13,Cancel,Duplicate of Netflix (video)
+723,234,YouTube Premium,Entertainment,188,1,music,25,Cancel,Duplicate of Spotify Premium (music)
+724,234,Gym Membership,Health,1660,1,fitness,2,Keep,Actively used
+725,235,Spotify Premium,Entertainment,132,1,music,7,Keep,Actively used
+726,235,Zomato Gold,Food,191,1,food_membership,23,Keep,Actively used
+727,235,News / Magazine App,Reading,201,1,reading,0,Keep,Actively used
+728,235,JioHotstar,Entertainment,237,1,video,142,Cancel,Unused for 142 days
+729,236,JioHotstar,Entertainment,212,1,video,24,Cancel,Duplicate of Netflix (video)
+730,236,YouTube Premium,Entertainment,155,1,music,16,Keep,Actively used
+731,236,Netflix,Entertainment,250,1,video,8,Keep,Actively used
+732,236,Swiggy One,Food,171,1,food_membership,2,Keep,Actively used
+733,236,AI Code Assistant,Productivity,970,1,ai_tools,9,Keep,Actively used
+734,237,Prime Video,Entertainment,219,1,video,24,Keep,Actively used
+735,237,Swiggy One,Food,154,1,food_membership,24,Keep,Actively used
+736,238,Domain / Hosting,Dev Tools,240,1,dev_tools,9,Keep,Actively used
+737,239,Prime Video,Entertainment,295,1,video,107,Cancel,Unused for 107 days
+738,240,YouTube Premium,Entertainment,164,1,music,3,Keep,Actively used
+739,240,Spotify Premium,Entertainment,121,1,music,18,Cancel,Duplicate of YouTube Premium (music)
+740,240,Netflix,Entertainment,460,1,video,20,Keep,Actively used
+741,240,Google One Storage,Productivity,131,1,storage,54,Review,Low usage: 54 days since last use
+742,241,Google One Storage,Productivity,194,1,storage,62,Cancel,Unused for 62 days
+743,241,YouTube Premium,Entertainment,184,1,music,21,Keep,Actively used
+744,241,Gym Membership,Health,1230,1,fitness,98,Cancel,Duplicate of Fitness App (fitness)
+745,241,Prime Video,Entertainment,281,1,video,41,Cancel,Duplicate of JioHotstar (video)
+746,241,JioHotstar,Entertainment,198,1,video,23,Keep,Actively used
+747,241,Fitness App,Health,360,1,fitness,14,Keep,Actively used
+748,242,iCloud+ Storage,Productivity,180,1,storage,97,Cancel,Unused for 97 days
+749,242,JioHotstar,Entertainment,150,1,video,21,Keep,Actively used
+750,243,Online Course Platform,Learning,1030,1,learning,12,Keep,Actively used
+751,244,JioHotstar,Entertainment,224,1,video,51,Review,Low usage: 51 days since last use
+752,244,Spotify Premium,Entertainment,122,1,music,4,Keep,Actively used
+753,244,Swiggy One,Food,189,1,food_membership,19,Keep,Actively used
+754,244,Zomato Gold,Food,154,1,food_membership,21,Cancel,Duplicate of Swiggy One (food_membership)
+755,244,Learning App,Learning,480,1,learning,84,Cancel,Unused for 84 days
+756,245,Netflix,Entertainment,560,1,video,89,Cancel,Duplicate of Prime Video (video)
+757,245,Spotify Premium,Entertainment,136,1,music,12,Keep,Actively used
+758,245,YouTube Premium,Entertainment,179,1,music,19,Cancel,Duplicate of Spotify Premium (music)
+759,245,Prime Video,Entertainment,141,1,video,14,Keep,Actively used
+760,245,JioHotstar,Entertainment,257,1,video,140,Cancel,Duplicate of Prime Video (video)
+761,245,Swiggy One,Food,180,1,food_membership,2,Keep,Actively used
+762,246,Gym Membership,Health,1620,1,fitness,23,Keep,Actively used
+763,246,AI Assistant Pro,Productivity,1970,1,ai_tools,8,Keep,Actively used
+764,246,YouTube Premium,Entertainment,177,1,music,15,Keep,Actively used
+765,246,Professional Network Premium,Professional,1760,1,professional,0,Keep,Actively used
+766,247,Game Subscription,Gaming,460,1,gaming,19,Keep,Actively used
+767,247,iCloud+ Storage,Productivity,99,1,storage,18,Keep,Actively used
+768,248,AI Code Assistant,Productivity,930,1,ai_tools,10,Keep,Actively used
+769,249,SonyLIV,Entertainment,181,1,video,32,Review,Low usage: 32 days since last use
+770,249,Spotify Premium,Entertainment,131,1,music,10,Keep,Actively used
+771,250,Learning App,Learning,290,1,learning,21,Keep,Actively used
+772,250,Netflix,Entertainment,250,1,video,14,Keep,Actively used
+773,250,Google One Storage,Productivity,200,1,storage,9,Keep,Actively used
+774,250,YouTube Premium,Entertainment,180,1,music,25,Keep,Actively used
+775,250,iCloud+ Storage,Productivity,156,1,storage,25,Cancel,Duplicate of Google One Storage (storage)
+776,251,Swiggy One,Food,165,1,food_membership,79,Cancel,Duplicate of Zomato Gold (food_membership)
+777,251,Zomato Gold,Food,195,1,food_membership,22,Keep,Actively used
+778,251,Gym Membership,Health,1870,1,fitness,83,Cancel,Unused for 83 days
+779,252,Professional Network Premium,Professional,2160,1,professional,3,Keep,Actively used
+780,252,Spotify Premium,Entertainment,127,1,music,18,Keep,Actively used
+781,252,Netflix,Entertainment,230,1,video,24,Keep,Actively used
+782,252,Domain / Hosting,Dev Tools,460,1,dev_tools,24,Keep,Actively used
+783,253,Apple Music,Entertainment,113,1,music,24,Cancel,Duplicate of YouTube Premium (music)
+784,253,Gym Membership,Health,1510,1,fitness,7,Keep,Actively used
+785,253,Online Course Platform,Learning,1090,1,learning,21,Keep,Actively used
+786,253,AI Assistant Pro,Productivity,1990,1,ai_tools,23,Keep,Actively used
+787,253,YouTube Premium,Entertainment,153,1,music,19,Keep,Actively used
+788,253,JioHotstar,Entertainment,206,1,video,16,Cancel,Duplicate of Netflix (video)
+789,253,Swiggy One,Food,166,1,food_membership,13,Keep,Actively used
+790,253,Netflix,Entertainment,170,1,video,15,Keep,Actively used
+791,254,Gym Membership,Health,1010,1,fitness,128,Cancel,Unused for 128 days
+792,254,Prime Video,Entertainment,295,1,video,21,Cancel,Duplicate of Netflix (video)
+793,254,JioHotstar,Entertainment,294,1,video,54,Cancel,Duplicate of Netflix (video)
+794,254,Online Course Platform,Learning,790,1,learning,8,Keep,Actively used
+795,254,Netflix,Entertainment,240,1,video,20,Keep,Actively used
+796,254,Apple Music,Entertainment,111,1,music,11,Keep,Actively used
+797,255,Zomato Gold,Food,190,1,food_membership,12,Keep,Actively used
+798,255,Ebook / Audiobook App,Reading,166,1,reading,75,Cancel,Duplicate of News / Magazine App (reading)
+799,255,News / Magazine App,Reading,232,1,reading,7,Keep,Actively used
+800,255,Netflix,Entertainment,270,1,video,24,Keep,Actively used
+801,255,JioSaavn Pro,Entertainment,99,1,music,16,Keep,Actively used
+802,255,YouTube Premium,Entertainment,182,1,music,89,Cancel,Duplicate of JioSaavn Pro (music)
+803,256,Spotify Premium,Entertainment,133,1,music,10,Keep,Actively used
+804,256,Gym Membership,Health,1500,1,fitness,4,Keep,Actively used
+805,256,JioSaavn Pro,Entertainment,99,1,music,73,Cancel,Duplicate of Spotify Premium (music)
+806,256,Google One Storage,Productivity,179,1,storage,66,Cancel,Unused for 66 days
+807,256,JioHotstar,Entertainment,188,1,video,3,Keep,Actively used
+808,256,Zomato Gold,Food,195,1,food_membership,8,Keep,Actively used
+809,257,Online Course Platform,Learning,960,1,learning,85,Cancel,Unused for 85 days
+810,258,Domain / Hosting,Dev Tools,310,1,dev_tools,5,Keep,Actively used
+811,258,VPN Service,Security,258,1,security,16,Keep,Actively used
+812,258,Swiggy One,Food,181,1,food_membership,4,Keep,Actively used
+813,258,Game Subscription,Gaming,520,1,gaming,78,Cancel,Unused for 78 days
+814,259,Gym Membership,Health,2450,1,fitness,12,Cancel,Duplicate of Fitness App (fitness)
+815,259,Zomato Gold,Food,175,1,food_membership,46,Review,Low usage: 46 days since last use
+816,259,Fitness App,Health,800,1,fitness,3,Keep,Actively used
+817,260,Swiggy One,Food,192,1,food_membership,3,Keep,Actively used
+818,260,Spotify Premium,Entertainment,136,1,music,13,Keep,Actively used
+819,260,Fitness App,Health,400,1,fitness,5,Keep,Actively used
+820,260,Netflix,Entertainment,170,1,video,150,Cancel,Unused for 150 days
+821,261,Netflix,Entertainment,640,1,video,133,Cancel,Duplicate of Prime Video (video)
+822,261,Domain / Hosting,Dev Tools,390,1,dev_tools,116,Cancel,Unused for 116 days
+823,261,Prime Video,Entertainment,250,1,video,1,Keep,Actively used
+824,261,YouTube Premium,Entertainment,176,1,music,3,Keep,Actively used
+825,262,Gym Membership,Health,1070,1,fitness,14,Keep,Actively used
+826,262,SonyLIV,Entertainment,242,1,video,64,Cancel,Unused for 64 days
+827,263,News / Magazine App,Reading,224,1,reading,21,Keep,Actively used
+828,263,iCloud+ Storage,Productivity,81,1,storage,20,Keep,Actively used
+829,263,JioHotstar,Entertainment,279,1,video,10,Keep,Actively used
+830,263,VPN Service,Security,274,1,security,12,Keep,Actively used
+831,263,Google One Storage,Productivity,154,1,storage,20,Cancel,Duplicate of iCloud+ Storage (storage)
+832,264,Spotify Premium,Entertainment,138,1,music,16,Cancel,Duplicate of YouTube Premium (music)
+833,264,Netflix,Entertainment,630,1,video,12,Keep,Actively used
+834,264,Prime Video,Entertainment,228,1,video,149,Cancel,Duplicate of Netflix (video)
+835,264,News / Magazine App,Reading,237,1,reading,60,Review,Low usage: 60 days since last use
+836,264,Domain / Hosting,Dev Tools,210,1,dev_tools,16,Keep,Actively used
+837,264,YouTube Premium,Entertainment,164,1,music,12,Keep,Actively used
+838,265,News / Magazine App,Reading,157,1,reading,14,Keep,Actively used
+839,265,Game Subscription,Gaming,510,1,gaming,95,Cancel,Unused for 95 days
+840,265,Spotify Premium,Entertainment,131,1,music,15,Keep,Actively used
+841,266,Google One Storage,Productivity,207,1,storage,66,Cancel,Unused for 66 days
+842,266,Netflix,Entertainment,610,1,video,25,Keep,Actively used
+843,266,Game Subscription,Gaming,540,1,gaming,19,Keep,Actively used
+844,266,Spotify Premium,Entertainment,129,1,music,21,Keep,Actively used
+845,266,AI Assistant Pro,Productivity,1800,1,ai_tools,80,Cancel,Unused for 80 days
+846,267,Google One Storage,Productivity,209,1,storage,14,Keep,Actively used
+847,267,Fitness App,Health,990,1,fitness,14,Keep,Actively used
+848,267,Prime Video,Entertainment,149,1,video,4,Keep,Actively used
+849,268,YouTube Premium,Entertainment,174,1,music,9,Keep,Actively used
+850,268,Swiggy One,Food,188,1,food_membership,65,Cancel,Unused for 65 days
+851,268,AI Code Assistant,Productivity,950,1,ai_tools,21,Keep,Actively used
+852,268,Domain / Hosting,Dev Tools,210,1,dev_tools,74,Cancel,Unused for 74 days
+853,269,iCloud+ Storage,Productivity,113,1,storage,17,Keep,Actively used
+854,269,Domain / Hosting,Dev Tools,270,1,dev_tools,69,Cancel,Unused for 69 days
+855,269,Spotify Premium,Entertainment,132,1,music,14,Keep,Actively used
+856,270,Google One Storage,Productivity,155,1,storage,103,Cancel,Unused for 103 days
+857,270,Apple Music,Entertainment,118,1,music,25,Keep,Actively used
+858,270,Swiggy One,Food,159,1,food_membership,23,Keep,Actively used
+859,271,Prime Video,Entertainment,262,1,video,146,Cancel,Unused for 146 days
+860,272,JioSaavn Pro,Entertainment,99,1,music,146,Cancel,Unused for 146 days
+861,272,JioHotstar,Entertainment,206,1,video,14,Keep,Actively used
+862,272,Zomato Gold,Food,194,1,food_membership,0,Keep,Actively used
+863,273,Gym Membership,Health,2220,1,fitness,86,Cancel,Unused for 86 days
+864,273,iCloud+ Storage,Productivity,171,1,storage,11,Keep,Actively used
+865,273,Netflix,Entertainment,560,1,video,124,Cancel,Unused for 124 days
+866,273,Swiggy One,Food,167,1,food_membership,22,Keep,Actively used
+867,273,YouTube Premium,Entertainment,181,1,music,20,Keep,Actively used
+868,273,Online Course Platform,Learning,590,1,learning,148,Cancel,Unused for 148 days
+869,273,Spotify Premium,Entertainment,130,1,music,24,Cancel,Duplicate of YouTube Premium (music)
+870,274,iCloud+ Storage,Productivity,134,1,storage,11,Keep,Actively used
+871,274,Swiggy One,Food,193,1,food_membership,7,Keep,Actively used
+872,275,Netflix,Entertainment,270,1,video,68,Cancel,Unused for 68 days
+873,275,News / Magazine App,Reading,166,1,reading,77,Cancel,Unused for 77 days
+874,275,Domain / Hosting,Dev Tools,240,1,dev_tools,16,Keep,Actively used
+875,276,Prime Video,Entertainment,147,1,video,86,Cancel,Unused for 86 days
+876,277,Spotify Premium,Entertainment,130,1,music,25,Keep,Actively used
+877,277,JioHotstar,Entertainment,238,1,video,87,Cancel,Unused for 87 days
+878,278,Gym Membership,Health,2250,1,fitness,146,Cancel,Unused for 146 days
+879,278,Netflix,Entertainment,530,1,video,68,Cancel,Unused for 68 days
+880,278,JioSaavn Pro,Entertainment,99,1,music,73,Cancel,Unused for 73 days
+881,278,Prime Video,Entertainment,157,1,video,76,Cancel,Duplicate of Netflix (video)
+882,278,AI Assistant Pro,Productivity,1790,1,ai_tools,17,Keep,Actively used
+883,278,iCloud+ Storage,Productivity,157,1,storage,1,Keep,Actively used
+884,279,AI Assistant Pro,Productivity,1760,1,ai_tools,10,Keep,Actively used
+885,279,Prime Video,Entertainment,276,1,video,132,Cancel,Unused for 132 days
+886,279,News / Magazine App,Reading,157,1,reading,9,Keep,Actively used
+887,279,YouTube Premium,Entertainment,159,1,music,23,Keep,Actively used
+888,280,Prime Video,Entertainment,251,1,video,6,Keep,Actively used
+889,280,Spotify Premium,Entertainment,119,1,music,37,Cancel,Duplicate of YouTube Premium (music)
+890,280,YouTube Premium,Entertainment,151,1,music,5,Keep,Actively used
+891,281,JioSaavn Pro,Entertainment,99,1,music,86,Cancel,Unused for 86 days
+892,281,Swiggy One,Food,163,1,food_membership,85,Cancel,Unused for 85 days
+893,282,Zee5,Entertainment,113,1,video,3,Keep,Actively used
+894,283,Gym Membership,Health,2410,1,fitness,55,Review,Low usage: 55 days since last use
+895,283,Professional Network Premium,Professional,2190,1,professional,39,Review,Low usage: 39 days since last use
+896,283,Learning App,Learning,340,1,learning,84,Cancel,Unused for 84 days
+897,283,SonyLIV,Entertainment,271,1,video,25,Keep,Actively used
+898,283,AI Assistant Pro,Productivity,1800,1,ai_tools,23,Keep,Actively used
+899,283,Netflix,Entertainment,360,1,video,56,Cancel,Duplicate of SonyLIV (video)
+900,284,YouTube Premium,Entertainment,186,1,music,21,Keep,Actively used
+901,284,Netflix,Entertainment,360,1,video,23,Cancel,Duplicate of Prime Video (video)
+902,284,Professional Network Premium,Professional,2280,1,professional,109,Cancel,Unused for 109 days
+903,284,Google One Storage,Productivity,147,1,storage,23,Keep,Actively used
+904,284,JioHotstar,Entertainment,275,1,video,3,Cancel,Duplicate of Prime Video (video)
+905,284,Prime Video,Entertainment,178,1,video,0,Keep,Actively used
+906,284,Online Course Platform,Learning,1150,1,learning,126,Cancel,Unused for 126 days
+907,285,Prime Video,Entertainment,164,1,video,2,Keep,Actively used
+908,286,Spotify Premium,Entertainment,132,1,music,78,Cancel,Duplicate of YouTube Premium (music)
+909,286,YouTube Premium,Entertainment,188,1,music,21,Keep,Actively used
+910,287,Google One Storage,Productivity,201,1,storage,12,Keep,Actively used
+911,287,SonyLIV,Entertainment,165,1,video,49,Review,Low usage: 49 days since last use
+912,288,VPN Service,Security,263,1,security,132,Cancel,Unused for 132 days
+913,288,YouTube Premium,Entertainment,184,1,music,13,Keep,Actively used
+914,289,iCloud+ Storage,Productivity,108,1,storage,2,Keep,Actively used
+915,290,Spotify Premium,Entertainment,137,1,music,3,Keep,Actively used
+916,290,VPN Service,Security,245,1,security,143,Cancel,Unused for 143 days
+917,290,iCloud+ Storage,Productivity,183,1,storage,82,Cancel,Unused for 82 days
+918,291,Prime Video,Entertainment,277,1,video,19,Keep,Actively used
+919,291,Learning App,Learning,340,1,learning,17,Keep,Actively used
+920,292,Gym Membership,Health,1630,1,fitness,37,Review,Low usage: 37 days since last use
+921,293,iCloud+ Storage,Productivity,172,1,storage,18,Keep,Actively used
+922,293,Zomato Gold,Food,176,1,food_membership,8,Keep,Actively used
+923,293,VPN Service,Security,163,1,security,7,Keep,Actively used
+924,293,Prime Video,Entertainment,256,1,video,9,Keep,Actively used
+925,294,iCloud+ Storage,Productivity,138,1,storage,18,Keep,Actively used
+926,294,Gym Membership,Health,1010,1,fitness,7,Keep,Actively used
+927,295,AI Assistant Pro,Productivity,1860,1,ai_tools,19,Keep,Actively used
+928,295,Prime Video,Entertainment,136,1,video,19,Keep,Actively used
+929,295,Fitness App,Health,660,1,fitness,17,Keep,Actively used
+930,296,Online Course Platform,Learning,860,1,learning,143,Cancel,Unused for 143 days
+931,296,Apple Music,Entertainment,99,1,music,99,Cancel,Unused for 99 days
+932,296,JioHotstar,Entertainment,228,1,video,7,Keep,Actively used
+933,296,Game Subscription,Gaming,530,1,gaming,20,Keep,Actively used
+934,297,SonyLIV,Entertainment,254,1,video,84,Cancel,Unused for 84 days
+935,297,Learning App,Learning,390,1,learning,0,Keep,Actively used
+936,297,Fitness App,Health,520,1,fitness,12,Keep,Actively used
+937,297,Gym Membership,Health,1680,1,fitness,20,Cancel,Duplicate of Fitness App (fitness)
+938,297,News / Magazine App,Reading,207,1,reading,9,Keep,Actively used
+939,298,Netflix,Entertainment,180,1,video,6,Keep,Actively used
+940,299,Spotify Premium,Entertainment,126,1,music,24,Keep,Actively used
+941,299,JioHotstar,Entertainment,225,1,video,13,Keep,Actively used
+942,299,Apple Music,Entertainment,108,1,music,33,Cancel,Duplicate of Spotify Premium (music)
+943,300,Swiggy One,Food,154,1,food_membership,1,Keep,Actively used
+944,301,Gym Membership,Health,1040,1,fitness,127,Cancel,Unused for 127 days
+945,301,iCloud+ Storage,Productivity,83,1,storage,40,Review,Low usage: 40 days since last use
+946,301,YouTube Premium,Entertainment,163,1,music,22,Keep,Actively used
+947,301,Zee5,Entertainment,106,1,video,8,Keep,Actively used
+948,302,Online Course Platform,Learning,1020,1,learning,3,Keep,Actively used
+949,302,Google One Storage,Productivity,207,1,storage,19,Keep,Actively used
+950,302,Netflix,Entertainment,290,1,video,9,Keep,Actively used
+951,302,YouTube Premium,Entertainment,162,1,music,124,Cancel,Unused for 124 days
+952,303,Spotify Premium,Entertainment,134,1,music,0,Keep,Actively used
+953,303,Swiggy One,Food,192,1,food_membership,4,Keep,Actively used
+954,303,JioHotstar,Entertainment,274,1,video,43,Review,Low usage: 43 days since last use
+955,303,Ebook / Audiobook App,Reading,170,1,reading,14,Keep,Actively used
+956,303,Online Course Platform,Learning,1000,1,learning,53,Review,Low usage: 53 days since last use
+957,303,AI Code Assistant,Productivity,810,1,ai_tools,51,Review,Low usage: 51 days since last use
+958,304,Google One Storage,Productivity,188,1,storage,112,Cancel,Unused for 112 days
+959,305,Professional Network Premium,Professional,1850,1,professional,3,Keep,Actively used
+960,305,AI Code Assistant,Productivity,830,1,ai_tools,144,Cancel,Unused for 144 days
+961,305,Swiggy One,Food,160,1,food_membership,14,Keep,Actively used
+962,305,Google One Storage,Productivity,138,1,storage,143,Cancel,Unused for 143 days
+963,306,Google One Storage,Productivity,154,1,storage,145,Cancel,Unused for 145 days
+964,306,Zomato Gold,Food,198,1,food_membership,55,Review,Low usage: 55 days since last use
+965,306,YouTube Premium,Entertainment,159,1,music,1,Keep,Actively used
+966,306,Learning App,Learning,370,1,learning,25,Keep,Actively used
+967,307,Prime Video,Entertainment,268,1,video,13,Keep,Actively used
+968,308,Prime Video,Entertainment,196,1,video,14,Keep,Actively used
+969,308,Apple Music,Entertainment,119,1,music,2,Keep,Actively used
+970,309,Zomato Gold,Food,155,1,food_membership,18,Keep,Actively used
+971,309,Prime Video,Entertainment,154,1,video,5,Keep,Actively used
+972,310,Spotify Premium,Entertainment,119,1,music,18,Keep,Actively used
+973,311,iCloud+ Storage,Productivity,203,1,storage,54,Review,Low usage: 54 days since last use
+974,311,SonyLIV,Entertainment,279,1,video,142,Cancel,Unused for 142 days
+975,311,Swiggy One,Food,171,1,food_membership,0,Keep,Actively used
+976,312,Netflix,Entertainment,400,1,video,24,Cancel,Duplicate of JioHotstar (video)
+977,312,JioHotstar,Entertainment,236,1,video,9,Keep,Actively used
+978,312,Zee5,Entertainment,144,1,video,10,Cancel,Duplicate of JioHotstar (video)
+979,312,YouTube Premium,Entertainment,182,1,music,11,Keep,Actively used
+980,312,Online Course Platform,Learning,910,1,learning,1,Keep,Actively used
+981,313,iCloud+ Storage,Productivity,100,1,storage,89,Cancel,Unused for 89 days
+982,313,Swiggy One,Food,164,1,food_membership,85,Cancel,Unused for 85 days
+983,313,JioSaavn Pro,Entertainment,99,1,music,21,Keep,Actively used
+984,314,Gym Membership,Health,1720,1,fitness,13,Keep,Actively used
+985,314,Google One Storage,Productivity,202,1,storage,15,Keep,Actively used
+986,314,Netflix,Entertainment,180,1,video,11,Keep,Actively used
+987,315,Game Subscription,Gaming,520,1,gaming,40,Review,Low usage: 40 days since last use
+988,316,Google One Storage,Productivity,170,1,storage,15,Keep,Actively used
+989,316,Spotify Premium,Entertainment,128,1,music,8,Keep,Actively used
+990,316,JioHotstar,Entertainment,287,1,video,0,Keep,Actively used
+991,317,Prime Video,Entertainment,130,1,video,64,Cancel,Unused for 64 days
+992,318,Google One Storage,Productivity,163,1,storage,15,Keep,Actively used
+993,318,YouTube Premium,Entertainment,171,1,music,2,Keep,Actively used
+994,319,Swiggy One,Food,185,1,food_membership,7,Keep,Actively used
+995,320,Prime Video,Entertainment,194,1,video,22,Cancel,Duplicate of Netflix (video)
+996,320,AI Code Assistant,Productivity,910,1,ai_tools,7,Keep,Actively used
+997,320,News / Magazine App,Reading,240,1,reading,12,Keep,Actively used
+998,320,iCloud+ Storage,Productivity,108,1,storage,0,Keep,Actively used
+999,320,SonyLIV,Entertainment,192,1,video,12,Cancel,Duplicate of Netflix (video)
+1000,320,Netflix,Entertainment,280,1,video,2,Keep,Actively used
+1001,320,Swiggy One,Food,172,1,food_membership,11,Keep,Actively used
+1002,321,Netflix,Entertainment,540,1,video,110,Cancel,Unused for 110 days
+1003,322,Spotify Premium,Entertainment,138,1,music,2,Keep,Actively used
+1004,322,Google One Storage,Productivity,194,1,storage,24,Keep,Actively used
+1005,322,Apple Music,Entertainment,108,1,music,19,Cancel,Duplicate of Spotify Premium (music)
+1006,323,Online Course Platform,Learning,560,1,learning,75,Cancel,Unused for 75 days
+1007,324,SonyLIV,Entertainment,210,1,video,144,Cancel,Unused for 144 days
+1008,325,Professional Network Premium,Professional,1700,1,professional,46,Review,Low usage: 46 days since last use
+1009,326,SonyLIV,Entertainment,131,1,video,129,Cancel,Unused for 129 days
+1010,326,Ebook / Audiobook App,Reading,191,1,reading,19,Keep,Actively used
+1011,327,AI Assistant Pro,Productivity,1940,1,ai_tools,14,Keep,Actively used
+1012,327,News / Magazine App,Reading,205,1,reading,11,Keep,Actively used
+1013,327,SonyLIV,Entertainment,332,1,video,132,Cancel,Unused for 132 days
+1014,328,Prime Video,Entertainment,298,1,video,19,Keep,Actively used
+1015,328,Google One Storage,Productivity,191,1,storage,85,Cancel,Unused for 85 days
+1016,328,AI Code Assistant,Productivity,910,1,ai_tools,4,Keep,Actively used
+1017,329,Zomato Gold,Food,175,1,food_membership,64,Cancel,Unused for 64 days
+1018,330,Zomato Gold,Food,159,1,food_membership,0,Keep,Actively used
+1019,330,Game Subscription,Gaming,510,1,gaming,3,Keep,Actively used
+1020,330,Online Course Platform,Learning,1130,1,learning,114,Cancel,Unused for 114 days
+1021,330,Gym Membership,Health,2450,1,fitness,25,Keep,Actively used
+1022,331,Gym Membership,Health,1320,1,fitness,9,Keep,Actively used
+1023,331,JioHotstar,Entertainment,267,1,video,1,Keep,Actively used
+1024,331,YouTube Premium,Entertainment,177,1,music,118,Cancel,Unused for 118 days
+1025,332,SonyLIV,Entertainment,266,1,video,50,Cancel,Duplicate of JioHotstar (video)
+1026,332,JioHotstar,Entertainment,284,1,video,7,Keep,Actively used
+1027,332,Swiggy One,Food,180,1,food_membership,19,Keep,Actively used
+1028,332,Gym Membership,Health,2210,1,fitness,21,Keep,Actively used
+1029,332,Prime Video,Entertainment,290,1,video,19,Cancel,Duplicate of JioHotstar (video)
+1030,333,YouTube Premium,Entertainment,150,1,music,8,Keep,Actively used
+1031,333,Spotify Premium,Entertainment,119,1,music,19,Cancel,Duplicate of YouTube Premium (music)
+1032,334,Netflix,Entertainment,450,1,video,121,Cancel,Unused for 121 days
+1033,335,Swiggy One,Food,170,1,food_membership,14,Keep,Actively used
+1034,335,Spotify Premium,Entertainment,120,1,music,17,Keep,Actively used
+1035,336,Spotify Premium,Entertainment,139,1,music,139,Cancel,Unused for 139 days
+1036,336,Prime Video,Entertainment,253,1,video,10,Keep,Actively used
+1037,336,AI Code Assistant,Productivity,850,1,ai_tools,8,Keep,Actively used
+1038,337,Spotify Premium,Entertainment,139,1,music,22,Keep,Actively used
+1039,338,Prime Video,Entertainment,144,1,video,36,Review,Low usage: 36 days since last use
+1040,338,AI Assistant Pro,Productivity,1930,1,ai_tools,18,Keep,Actively used
+1041,338,Game Subscription,Gaming,350,1,gaming,13,Keep,Actively used
+1042,338,News / Magazine App,Reading,104,1,reading,74,Cancel,Unused for 74 days
+1043,339,Fitness App,Health,370,1,fitness,34,Review,Low usage: 34 days since last use
+1044,340,Google One Storage,Productivity,208,1,storage,140,Cancel,Unused for 140 days
+1045,340,Spotify Premium,Entertainment,134,1,music,11,Keep,Actively used
+1046,340,SonyLIV,Entertainment,380,1,video,54,Cancel,Duplicate of Netflix (video)
+1047,340,JioSaavn Pro,Entertainment,99,1,music,23,Cancel,Duplicate of Spotify Premium (music)
+1048,340,Netflix,Entertainment,530,1,video,20,Keep,Actively used
+1049,341,JioHotstar,Entertainment,185,1,video,5,Keep,Actively used
+1050,341,Spotify Premium,Entertainment,124,1,music,12,Keep,Actively used
+1051,342,Spotify Premium,Entertainment,127,1,music,122,Cancel,Unused for 122 days
+1052,343,iCloud+ Storage,Productivity,186,1,storage,18,Keep,Actively used
+1053,343,Google One Storage,Productivity,178,1,storage,87,Cancel,Duplicate of iCloud+ Storage (storage)
+1054,343,YouTube Premium,Entertainment,182,1,music,11,Keep,Actively used
+1055,344,AI Assistant Pro,Productivity,1730,1,ai_tools,132,Cancel,Unused for 132 days
+1056,344,Google One Storage,Productivity,154,1,storage,11,Keep,Actively used
+1057,345,Spotify Premium,Entertainment,125,1,music,112,Cancel,Duplicate of YouTube Premium (music)
+1058,345,YouTube Premium,Entertainment,163,1,music,22,Keep,Actively used
+1059,346,YouTube Premium,Entertainment,163,1,music,25,Keep,Actively used
+1060,346,Ebook / Audiobook App,Reading,180,1,reading,14,Keep,Actively used
+1061,346,Swiggy One,Food,169,1,food_membership,5,Cancel,Duplicate of Zomato Gold (food_membership)
+1062,346,Netflix,Entertainment,320,1,video,150,Cancel,Duplicate of SonyLIV (video)
+1063,346,SonyLIV,Entertainment,280,1,video,14,Keep,Actively used
+1064,346,Zomato Gold,Food,159,1,food_membership,1,Keep,Actively used
+1065,346,Gym Membership,Health,2210,1,fitness,74,Cancel,Unused for 74 days
+1066,347,Online Course Platform,Learning,430,1,learning,60,Review,Low usage: 60 days since last use
+1067,347,JioSaavn Pro,Entertainment,99,1,music,25,Keep,Actively used
+1068,347,VPN Service,Security,252,1,security,114,Cancel,Unused for 114 days
+1069,347,JioHotstar,Entertainment,268,1,video,110,Cancel,Unused for 110 days
+1070,347,Google One Storage,Productivity,162,1,storage,8,Keep,Actively used
+1071,347,iCloud+ Storage,Productivity,77,1,storage,24,Cancel,Duplicate of Google One Storage (storage)
+1072,347,AI Assistant Pro,Productivity,1880,1,ai_tools,17,Keep,Actively used
+1073,348,YouTube Premium,Entertainment,173,1,music,25,Keep,Actively used
+1074,348,JioHotstar,Entertainment,281,1,video,25,Keep,Actively used
+1075,348,Gym Membership,Health,1350,1,fitness,128,Cancel,Unused for 128 days
+1076,348,Domain / Hosting,Dev Tools,280,1,dev_tools,52,Review,Low usage: 52 days since last use
+1077,348,AI Assistant Pro,Productivity,1970,1,ai_tools,65,Cancel,Unused for 65 days
+1078,349,AI Assistant Pro,Productivity,1810,1,ai_tools,21,Keep,Actively used
+1079,349,Spotify Premium,Entertainment,139,1,music,17,Cancel,Duplicate of Apple Music (music)
+1080,349,Apple Music,Entertainment,119,1,music,13,Keep,Actively used
+1081,349,iCloud+ Storage,Productivity,103,1,storage,13,Keep,Actively used
+1082,350,Swiggy One,Food,163,1,food_membership,125,Cancel,Unused for 125 days
+1083,350,JioSaavn Pro,Entertainment,99,1,music,18,Keep,Actively used
+1084,351,Prime Video,Entertainment,139,1,video,0,Keep,Actively used
+1085,351,JioHotstar,Entertainment,289,1,video,86,Cancel,Duplicate of Prime Video (video)
+1086,352,Netflix,Entertainment,440,1,video,5,Keep,Actively used
+1087,352,Fitness App,Health,890,1,fitness,133,Cancel,Unused for 133 days
+1088,352,VPN Service,Security,238,1,security,100,Cancel,Unused for 100 days
+1089,352,JioHotstar,Entertainment,290,1,video,7,Cancel,Duplicate of Netflix (video)
+1090,353,JioSaavn Pro,Entertainment,99,1,music,22,Cancel,Duplicate of Spotify Premium (music)
+1091,353,Spotify Premium,Entertainment,136,1,music,18,Keep,Actively used
+1092,354,YouTube Premium,Entertainment,170,1,music,20,Keep,Actively used
+1093,354,Prime Video,Entertainment,180,1,video,18,Keep,Actively used
+1094,354,VPN Service,Security,202,1,security,74,Cancel,Unused for 74 days
+1095,354,Google One Storage,Productivity,155,1,storage,18,Keep,Actively used
+1096,354,iCloud+ Storage,Productivity,81,1,storage,139,Cancel,Duplicate of Google One Storage (storage)
+1097,354,Professional Network Premium,Professional,2030,1,professional,20,Keep,Actively used
+1098,354,Netflix,Entertainment,640,1,video,103,Cancel,Duplicate of Prime Video (video)
+1099,354,Game Subscription,Gaming,450,1,gaming,20,Keep,Actively used
+1100,355,YouTube Premium,Entertainment,152,1,music,19,Keep,Actively used
+1101,356,Netflix,Entertainment,240,1,video,70,Cancel,Unused for 70 days
+1102,357,iCloud+ Storage,Productivity,160,1,storage,25,Keep,Actively used
+1103,357,JioHotstar,Entertainment,161,1,video,18,Keep,Actively used
+1104,357,Gym Membership,Health,1010,1,fitness,95,Cancel,Unused for 95 days
+1105,358,iCloud+ Storage,Productivity,217,1,storage,89,Cancel,Unused for 89 days
+1106,359,Apple Music,Entertainment,116,1,music,2,Keep,Actively used
+1107,359,AI Assistant Pro,Productivity,1880,1,ai_tools,94,Cancel,Unused for 94 days
+1108,359,Online Course Platform,Learning,500,1,learning,6,Keep,Actively used
+1109,359,JioHotstar,Entertainment,225,1,video,147,Cancel,Unused for 147 days
+1110,360,Google One Storage,Productivity,137,1,storage,24,Keep,Actively used
+1111,361,Game Subscription,Gaming,420,1,gaming,7,Keep,Actively used
+1112,361,Netflix,Entertainment,160,1,video,119,Cancel,Unused for 119 days
+1113,361,Google One Storage,Productivity,139,1,storage,62,Cancel,Unused for 62 days
+1114,361,Zomato Gold,Food,167,1,food_membership,1,Keep,Actively used
+1115,362,Spotify Premium,Entertainment,125,1,music,25,Cancel,Duplicate of YouTube Premium (music)
+1116,362,YouTube Premium,Entertainment,181,1,music,23,Keep,Actively used
+1117,362,AI Code Assistant,Productivity,890,1,ai_tools,23,Keep,Actively used
+1118,362,JioHotstar,Entertainment,284,1,video,144,Cancel,Unused for 144 days
+1119,363,Learning App,Learning,310,1,learning,0,Keep,Actively used
+1120,363,AI Assistant Pro,Productivity,1720,1,ai_tools,22,Keep,Actively used
+1121,363,Google One Storage,Productivity,130,1,storage,93,Cancel,Unused for 93 days
+1122,363,Zomato Gold,Food,157,1,food_membership,18,Keep,Actively used
+1123,364,Swiggy One,Food,168,1,food_membership,14,Keep,Actively used
+1124,364,Domain / Hosting,Dev Tools,390,1,dev_tools,7,Keep,Actively used
+1125,365,Zomato Gold,Food,187,1,food_membership,12,Keep,Actively used
+1126,365,Spotify Premium,Entertainment,137,1,music,6,Keep,Actively used
+1127,365,Prime Video,Entertainment,147,1,video,41,Review,Low usage: 41 days since last use
+1128,366,News / Magazine App,Reading,223,1,reading,21,Keep,Actively used
+1129,367,Netflix,Entertainment,230,1,video,7,Keep,Actively used
+1130,367,Zomato Gold,Food,177,1,food_membership,43,Review,Low usage: 43 days since last use
+1131,367,Google One Storage,Productivity,204,1,storage,5,Keep,Actively used
+1132,368,iCloud+ Storage,Productivity,112,1,storage,8,Keep,Actively used
+1133,368,Prime Video,Entertainment,148,1,video,20,Keep,Actively used
+1134,368,Learning App,Learning,460,1,learning,129,Cancel,Unused for 129 days
+1135,368,AI Code Assistant,Productivity,950,1,ai_tools,1,Keep,Actively used
+1136,368,Netflix,Entertainment,430,1,video,64,Cancel,Duplicate of Prime Video (video)
+1137,369,JioHotstar,Entertainment,194,1,video,15,Keep,Actively used
+1138,370,Spotify Premium,Entertainment,138,1,music,75,Cancel,Duplicate of JioSaavn Pro (music)
+1139,370,Netflix,Entertainment,160,1,video,4,Keep,Actively used
+1140,370,JioSaavn Pro,Entertainment,99,1,music,14,Keep,Actively used
+1141,370,Prime Video,Entertainment,273,1,video,144,Cancel,Duplicate of Netflix (video)
+1142,370,Fitness App,Health,950,1,fitness,99,Cancel,Unused for 99 days
+1143,370,Swiggy One,Food,178,1,food_membership,129,Cancel,Unused for 129 days
+1144,370,iCloud+ Storage,Productivity,81,1,storage,9,Keep,Actively used
+1145,371,JioHotstar,Entertainment,176,1,video,15,Keep,Actively used
+1146,371,Google One Storage,Productivity,184,1,storage,10,Keep,Actively used
+1147,372,Netflix,Entertainment,220,1,video,18,Keep,Actively used
+1148,372,Zomato Gold,Food,196,1,food_membership,89,Cancel,Unused for 89 days
+1149,372,Domain / Hosting,Dev Tools,440,1,dev_tools,8,Keep,Actively used
+1150,373,iCloud+ Storage,Productivity,176,1,storage,92,Cancel,Unused for 92 days
+1151,374,News / Magazine App,Reading,161,1,reading,87,Cancel,Unused for 87 days
+1152,374,Netflix,Entertainment,240,1,video,13,Keep,Actively used
+1153,375,Google One Storage,Productivity,184,1,storage,111,Cancel,Unused for 111 days
+1154,376,Gym Membership,Health,1340,1,fitness,112,Cancel,Unused for 112 days
+1155,376,Zomato Gold,Food,153,1,food_membership,6,Keep,Actively used
+1156,376,iCloud+ Storage,Productivity,135,1,storage,109,Cancel,Unused for 109 days
+1157,376,Online Course Platform,Learning,1130,1,learning,21,Keep,Actively used
+1158,377,Google One Storage,Productivity,144,1,storage,11,Keep,Actively used
+1159,377,YouTube Premium,Entertainment,188,1,music,4,Keep,Actively used
+1160,378,Prime Video,Entertainment,241,1,video,6,Keep,Actively used
+1161,379,Prime Video,Entertainment,166,1,video,18,Keep,Actively used
+1162,380,Game Subscription,Gaming,400,1,gaming,91,Cancel,Unused for 91 days
+1163,380,JioHotstar,Entertainment,152,1,video,25,Keep,Actively used
+1164,380,Google One Storage,Productivity,162,1,storage,21,Keep,Actively used
+1165,380,AI Assistant Pro,Productivity,1750,1,ai_tools,123,Cancel,Unused for 123 days
+1166,380,Gym Membership,Health,2330,1,fitness,47,Review,Low usage: 47 days since last use
+1167,381,Ebook / Audiobook App,Reading,169,1,reading,52,Review,Low usage: 52 days since last use
+1168,381,Online Course Platform,Learning,1110,1,learning,12,Keep,Actively used
+1169,381,Netflix,Entertainment,240,1,video,24,Keep,Actively used
+1170,382,Domain / Hosting,Dev Tools,480,1,dev_tools,5,Keep,Actively used
+1171,382,Gym Membership,Health,1940,1,fitness,113,Cancel,Unused for 113 days
+1172,382,Prime Video,Entertainment,251,1,video,15,Keep,Actively used
+1173,382,AI Assistant Pro,Productivity,1730,1,ai_tools,9,Keep,Actively used
+1174,382,YouTube Premium,Entertainment,183,1,music,21,Keep,Actively used
+1175,383,YouTube Premium,Entertainment,163,1,music,25,Keep,Actively used
+1176,383,Prime Video,Entertainment,250,1,video,15,Keep,Actively used
+1177,384,Zomato Gold,Food,193,1,food_membership,18,Keep,Actively used
+1178,384,Google One Storage,Productivity,189,1,storage,10,Keep,Actively used
+1179,385,JioHotstar,Entertainment,270,1,video,18,Cancel,Duplicate of Zee5 (video)
+1180,385,Zee5,Entertainment,100,1,video,9,Keep,Actively used
+1181,386,Zomato Gold,Food,199,1,food_membership,24,Keep,Actively used
+1182,386,YouTube Premium,Entertainment,157,1,music,3,Keep,Actively used
+1183,386,Gym Membership,Health,1220,1,fitness,9,Keep,Actively used
+1184,387,Spotify Premium,Entertainment,138,1,music,20,Keep,Actively used
+1185,387,Game Subscription,Gaming,440,1,gaming,15,Keep,Actively used
+1186,387,Zomato Gold,Food,157,1,food_membership,5,Keep,Actively used
+1187,388,AI Assistant Pro,Productivity,1860,1,ai_tools,14,Keep,Actively used
+1188,388,Spotify Premium,Entertainment,134,1,music,22,Keep,Actively used
+1189,388,Swiggy One,Food,176,1,food_membership,22,Keep,Actively used
+1190,388,Netflix,Entertainment,500,1,video,16,Keep,Actively used
+1191,388,Google One Storage,Productivity,145,1,storage,42,Cancel,Duplicate of iCloud+ Storage (storage)
+1192,388,iCloud+ Storage,Productivity,104,1,storage,12,Keep,Actively used
+1193,388,Learning App,Learning,260,1,learning,100,Cancel,Unused for 100 days
+1194,388,Gym Membership,Health,1810,1,fitness,21,Keep,Actively used
+1195,388,Game Subscription,Gaming,350,1,gaming,131,Cancel,Unused for 131 days
+1196,389,Zomato Gold,Food,155,1,food_membership,0,Keep,Actively used
+1197,389,AI Code Assistant,Productivity,1000,1,ai_tools,57,Review,Low usage: 57 days since last use
+1198,389,Prime Video,Entertainment,227,1,video,45,Cancel,Duplicate of Netflix (video)
+1199,389,Netflix,Entertainment,460,1,video,15,Keep,Actively used
+1200,390,Ebook / Audiobook App,Reading,166,1,reading,24,Keep,Actively used
+1201,390,Netflix,Entertainment,470,1,video,10,Keep,Actively used
+1202,391,iCloud+ Storage,Productivity,181,1,storage,88,Cancel,Unused for 88 days
+1203,391,Gym Membership,Health,1840,1,fitness,69,Cancel,Unused for 69 days
+1204,391,Zomato Gold,Food,195,1,food_membership,9,Keep,Actively used
+1205,392,SonyLIV,Entertainment,203,1,video,82,Cancel,Unused for 82 days
+1206,393,Online Course Platform,Learning,1070,1,learning,17,Keep,Actively used
+1207,393,Zomato Gold,Food,186,1,food_membership,19,Keep,Actively used
+1208,394,Swiggy One,Food,173,1,food_membership,13,Keep,Actively used
+1209,394,Prime Video,Entertainment,205,1,video,8,Keep,Actively used
+1210,394,Gym Membership,Health,2440,1,fitness,12,Keep,Actively used
+1211,394,JioHotstar,Entertainment,283,1,video,13,Cancel,Duplicate of Prime Video (video)
+1212,395,AI Assistant Pro,Productivity,1750,1,ai_tools,17,Keep,Actively used
+1213,395,Gym Membership,Health,1900,1,fitness,4,Keep,Actively used
+1214,395,Zee5,Entertainment,129,1,video,24,Keep,Actively used
+1215,395,Spotify Premium,Entertainment,131,1,music,10,Keep,Actively used
+1216,396,Netflix,Entertainment,160,1,video,76,Cancel,Unused for 76 days
+1217,397,Netflix,Entertainment,290,1,video,144,Cancel,Unused for 144 days
+1218,397,Spotify Premium,Entertainment,133,1,music,11,Keep,Actively used
+1219,397,AI Code Assistant,Productivity,880,1,ai_tools,5,Keep,Actively used
+1220,398,SonyLIV,Entertainment,269,1,video,16,Keep,Actively used
+1221,398,Netflix,Entertainment,210,1,video,24,Cancel,Duplicate of SonyLIV (video)
+1222,398,JioHotstar,Entertainment,296,1,video,140,Cancel,Duplicate of SonyLIV (video)
+1223,398,VPN Service,Security,288,1,security,32,Review,Low usage: 32 days since last use
+1224,398,Google One Storage,Productivity,148,1,storage,105,Cancel,Unused for 105 days
+1225,398,Ebook / Audiobook App,Reading,180,1,reading,23,Keep,Actively used
+1226,399,Swiggy One,Food,192,1,food_membership,22,Keep,Actively used
+1227,399,YouTube Premium,Entertainment,188,1,music,8,Keep,Actively used
+1228,399,AI Assistant Pro,Productivity,1880,1,ai_tools,25,Keep,Actively used
+1229,399,Gym Membership,Health,1110,1,fitness,135,Cancel,Unused for 135 days
+1230,399,VPN Service,Security,226,1,security,2,Keep,Actively used
+1231,399,Google One Storage,Productivity,182,1,storage,24,Keep,Actively used
+1232,399,Online Course Platform,Learning,840,1,learning,126,Cancel,Unused for 126 days
+1233,400,JioHotstar,Entertainment,287,1,video,2,Keep,Actively used
+1234,400,Google One Storage,Productivity,141,1,storage,6,Keep,Actively used
+1235,401,Netflix,Entertainment,360,1,video,6,Keep,Actively used
+1236,401,News / Magazine App,Reading,168,1,reading,14,Keep,Actively used
+1237,401,Zomato Gold,Food,157,1,food_membership,3,Keep,Actively used
+1238,401,Prime Video,Entertainment,158,1,video,15,Cancel,Duplicate of Netflix (video)
+1239,401,YouTube Premium,Entertainment,163,1,music,21,Keep,Actively used
+1240,401,AI Assistant Pro,Productivity,1860,1,ai_tools,6,Keep,Actively used
+1241,402,Gym Membership,Health,1320,1,fitness,9,Keep,Actively used
+1242,403,iCloud+ Storage,Productivity,162,1,storage,23,Keep,Actively used
+1243,403,Prime Video,Entertainment,247,1,video,20,Keep,Actively used
+1244,403,Online Course Platform,Learning,470,1,learning,0,Keep,Actively used
+1245,403,Spotify Premium,Entertainment,135,1,music,149,Cancel,Duplicate of YouTube Premium (music)
+1246,403,News / Magazine App,Reading,213,1,reading,67,Cancel,Unused for 67 days
+1247,403,SonyLIV,Entertainment,118,1,video,146,Cancel,Duplicate of Prime Video (video)
+1248,403,YouTube Premium,Entertainment,156,1,music,3,Keep,Actively used
+1249,404,Domain / Hosting,Dev Tools,300,1,dev_tools,9,Keep,Actively used
+1250,404,AI Code Assistant,Productivity,990,1,ai_tools,16,Keep,Actively used
+1251,405,SonyLIV,Entertainment,277,1,video,9,Keep,Actively used
+1252,405,Prime Video,Entertainment,241,1,video,22,Cancel,Duplicate of SonyLIV (video)
+1253,405,YouTube Premium,Entertainment,171,1,music,16,Keep,Actively used
+1254,405,Netflix,Entertainment,560,1,video,20,Cancel,Duplicate of SonyLIV (video)
+1255,405,Gym Membership,Health,2350,1,fitness,1,Keep,Actively used
+1256,406,SonyLIV,Entertainment,120,1,video,129,Cancel,Unused for 129 days
+1257,406,VPN Service,Security,213,1,security,56,Review,Low usage: 56 days since last use
+1258,406,Fitness App,Health,820,1,fitness,13,Keep,Actively used
+1259,407,Spotify Premium,Entertainment,119,1,music,25,Keep,Actively used
+1260,408,JioHotstar,Entertainment,165,1,video,23,Cancel,Duplicate of Netflix (video)
+1261,408,Netflix,Entertainment,590,1,video,13,Keep,Actively used
+1262,408,Spotify Premium,Entertainment,138,1,music,14,Keep,Actively used
+1263,409,Apple Music,Entertainment,103,1,music,4,Keep,Actively used
+1264,409,Spotify Premium,Entertainment,138,1,music,8,Cancel,Duplicate of Apple Music (music)
+1265,410,Google One Storage,Productivity,142,1,storage,22,Keep,Actively used
+1266,411,Zomato Gold,Food,180,1,food_membership,6,Keep,Actively used
+1267,411,Game Subscription,Gaming,500,1,gaming,8,Keep,Actively used
+1268,411,Spotify Premium,Entertainment,130,1,music,14,Keep,Actively used
+1269,411,JioHotstar,Entertainment,183,1,video,43,Review,Low usage: 43 days since last use
+1270,412,AI Code Assistant,Productivity,850,1,ai_tools,9,Keep,Actively used
+1271,412,SonyLIV,Entertainment,201,1,video,65,Cancel,Duplicate of Netflix (video)
+1272,412,Netflix,Entertainment,370,1,video,3,Keep,Actively used
+1273,413,YouTube Premium,Entertainment,183,1,music,3,Cancel,Duplicate of JioSaavn Pro (music)
+1274,413,Online Course Platform,Learning,460,1,learning,21,Keep,Actively used
+1275,413,JioSaavn Pro,Entertainment,99,1,music,0,Keep,Actively used
+1276,414,Learning App,Learning,550,1,learning,9,Keep,Actively used
+1277,414,iCloud+ Storage,Productivity,123,1,storage,77,Cancel,Unused for 77 days
+1278,415,Gym Membership,Health,1510,1,fitness,138,Cancel,Unused for 138 days
+1279,415,JioSaavn Pro,Entertainment,99,1,music,17,Keep,Actively used
+1280,415,AI Code Assistant,Productivity,940,1,ai_tools,81,Cancel,Unused for 81 days
+1281,416,Zee5,Entertainment,119,1,video,19,Keep,Actively used
+1282,417,JioHotstar,Entertainment,220,1,video,10,Keep,Actively used
+1283,418,Google One Storage,Productivity,143,1,storage,12,Keep,Actively used
+1284,418,AI Assistant Pro,Productivity,1890,1,ai_tools,9,Keep,Actively used
+1285,418,Apple Music,Entertainment,104,1,music,11,Keep,Actively used
+1286,419,JioSaavn Pro,Entertainment,99,1,music,25,Keep,Actively used
+1287,420,Netflix,Entertainment,400,1,video,12,Keep,Actively used
+1288,420,Learning App,Learning,530,1,learning,23,Keep,Actively used
+1289,421,AI Assistant Pro,Productivity,1840,1,ai_tools,22,Keep,Actively used
+1290,421,Spotify Premium,Entertainment,137,1,music,21,Keep,Actively used
+1291,421,Zomato Gold,Food,180,1,food_membership,3,Keep,Actively used
+1292,421,Fitness App,Health,440,1,fitness,35,Review,Low usage: 35 days since last use
+1293,421,JioHotstar,Entertainment,221,1,video,5,Keep,Actively used
+1294,422,iCloud+ Storage,Productivity,205,1,storage,123,Cancel,Duplicate of Google One Storage (storage)
+1295,422,SonyLIV,Entertainment,243,1,video,37,Cancel,Duplicate of JioHotstar (video)
+1296,422,Prime Video,Entertainment,143,1,video,67,Cancel,Duplicate of JioHotstar (video)
+1297,422,Spotify Premium,Entertainment,124,1,music,13,Keep,Actively used
+1298,422,Netflix,Entertainment,220,1,video,41,Cancel,Duplicate of JioHotstar (video)
+1299,422,Google One Storage,Productivity,139,1,storage,0,Keep,Actively used
+1300,422,JioHotstar,Entertainment,216,1,video,10,Keep,Actively used
+1301,423,Netflix,Entertainment,200,1,video,7,Keep,Actively used
+1302,423,Prime Video,Entertainment,172,1,video,19,Cancel,Duplicate of Netflix (video)
+1303,423,JioHotstar,Entertainment,196,1,video,116,Cancel,Duplicate of Netflix (video)
+1304,424,Spotify Premium,Entertainment,130,1,music,135,Cancel,Unused for 135 days
+1305,425,Game Subscription,Gaming,530,1,gaming,24,Keep,Actively used
+1306,425,Netflix,Entertainment,430,1,video,24,Cancel,Duplicate of JioHotstar (video)
+1307,425,JioHotstar,Entertainment,279,1,video,21,Keep,Actively used
+1308,426,Netflix,Entertainment,160,1,video,7,Keep,Actively used
+1309,426,Zomato Gold,Food,182,1,food_membership,13,Keep,Actively used
+1310,426,Prime Video,Entertainment,294,1,video,9,Cancel,Duplicate of Netflix (video)
+1311,426,Spotify Premium,Entertainment,130,1,music,9,Keep,Actively used
+1312,427,Prime Video,Entertainment,152,1,video,9,Keep,Actively used
+1313,427,Fitness App,Health,650,1,fitness,139,Cancel,Unused for 139 days
+1314,427,YouTube Premium,Entertainment,157,1,music,2,Keep,Actively used
+1315,427,Zomato Gold,Food,196,1,food_membership,2,Keep,Actively used
+1316,428,Netflix,Entertainment,250,1,video,3,Keep,Actively used
+1317,428,AI Code Assistant,Productivity,880,1,ai_tools,35,Review,Low usage: 35 days since last use
+1318,428,Gym Membership,Health,2140,1,fitness,71,Cancel,Duplicate of Fitness App (fitness)
+1319,428,JioHotstar,Entertainment,271,1,video,8,Cancel,Duplicate of Netflix (video)
+1320,428,Fitness App,Health,590,1,fitness,57,Review,Low usage: 57 days since last use
+1321,428,Online Course Platform,Learning,950,1,learning,90,Cancel,Unused for 90 days
+1322,429,Prime Video,Entertainment,231,1,video,114,Cancel,Duplicate of JioHotstar (video)
+1323,429,YouTube Premium,Entertainment,161,1,music,19,Keep,Actively used
+1324,429,Zee5,Entertainment,143,1,video,123,Cancel,Duplicate of JioHotstar (video)
+1325,429,JioHotstar,Entertainment,286,1,video,15,Keep,Actively used
+1326,429,iCloud+ Storage,Productivity,172,1,storage,85,Cancel,Unused for 85 days
+1327,430,JioHotstar,Entertainment,247,1,video,3,Keep,Actively used
+1328,430,Google One Storage,Productivity,140,1,storage,19,Keep,Actively used
+1329,430,YouTube Premium,Entertainment,161,1,music,9,Cancel,Duplicate of Apple Music (music)
+1330,430,Game Subscription,Gaming,380,1,gaming,150,Cancel,Unused for 150 days
+1331,430,AI Code Assistant,Productivity,880,1,ai_tools,22,Keep,Actively used
+1332,430,Professional Network Premium,Professional,1570,1,professional,50,Review,Low usage: 50 days since last use
+1333,430,Apple Music,Entertainment,112,1,music,7,Keep,Actively used
+1334,430,Prime Video,Entertainment,272,1,video,20,Cancel,Duplicate of JioHotstar (video)
+1335,431,Learning App,Learning,360,1,learning,53,Review,Low usage: 53 days since last use
+1336,431,Netflix,Entertainment,430,1,video,57,Cancel,Duplicate of Prime Video (video)
+1337,431,Prime Video,Entertainment,146,1,video,20,Keep,Actively used
+1338,432,Game Subscription,Gaming,520,1,gaming,9,Keep,Actively used
+1339,433,Netflix,Entertainment,220,1,video,17,Keep,Actively used
+1340,433,YouTube Premium,Entertainment,152,1,music,79,Cancel,Duplicate of Apple Music (music)
+1341,433,Apple Music,Entertainment,118,1,music,20,Keep,Actively used
+1342,434,JioHotstar,Entertainment,262,1,video,79,Cancel,Unused for 79 days
+1343,434,Spotify Premium,Entertainment,126,1,music,12,Keep,Actively used
+1344,434,Prime Video,Entertainment,260,1,video,133,Cancel,Duplicate of JioHotstar (video)
+1345,434,Game Subscription,Gaming,360,1,gaming,80,Cancel,Unused for 80 days
+1346,435,Netflix,Entertainment,640,1,video,2,Keep,Actively used
+1347,436,Online Course Platform,Learning,1080,1,learning,105,Cancel,Unused for 105 days
+1348,437,JioHotstar,Entertainment,211,1,video,5,Keep,Actively used
+1349,437,Gym Membership,Health,2470,1,fitness,78,Cancel,Unused for 78 days
+1350,437,YouTube Premium,Entertainment,187,1,music,16,Cancel,Duplicate of Apple Music (music)
+1351,437,Prime Video,Entertainment,154,1,video,69,Cancel,Duplicate of JioHotstar (video)
+1352,437,Netflix,Entertainment,230,1,video,11,Cancel,Duplicate of JioHotstar (video)
+1353,437,Apple Music,Entertainment,101,1,music,5,Keep,Actively used
+1354,438,Zomato Gold,Food,192,1,food_membership,21,Keep,Actively used
+1355,438,AI Assistant Pro,Productivity,1910,1,ai_tools,20,Keep,Actively used
+1356,438,YouTube Premium,Entertainment,180,1,music,4,Keep,Actively used
+1357,439,AI Code Assistant,Productivity,880,1,ai_tools,23,Keep,Actively used
+1358,439,YouTube Premium,Entertainment,177,1,music,94,Cancel,Unused for 94 days
+1359,439,Gym Membership,Health,1270,1,fitness,75,Cancel,Unused for 75 days
+1360,440,JioHotstar,Entertainment,274,1,video,15,Keep,Actively used
+1361,440,YouTube Premium,Entertainment,156,1,music,0,Keep,Actively used
+1362,441,AI Assistant Pro,Productivity,1830,1,ai_tools,24,Keep,Actively used
+1363,441,Google One Storage,Productivity,130,1,storage,10,Keep,Actively used
+1364,441,YouTube Premium,Entertainment,160,1,music,18,Cancel,Duplicate of Spotify Premium (music)
+1365,441,Prime Video,Entertainment,295,1,video,99,Cancel,Duplicate of JioHotstar (video)
+1366,441,Spotify Premium,Entertainment,133,1,music,6,Keep,Actively used
+1367,441,JioHotstar,Entertainment,296,1,video,81,Cancel,Unused for 81 days
+1368,442,SonyLIV,Entertainment,132,1,video,5,Keep,Actively used
+1369,443,Swiggy One,Food,156,1,food_membership,5,Keep,Actively used
+1370,443,Prime Video,Entertainment,247,1,video,85,Cancel,Unused for 85 days
+1371,444,Prime Video,Entertainment,145,1,video,7,Keep,Actively used
+1372,444,SonyLIV,Entertainment,107,1,video,95,Cancel,Duplicate of Prime Video (video)
+1373,445,AI Code Assistant,Productivity,830,1,ai_tools,91,Cancel,Unused for 91 days
+1374,445,YouTube Premium,Entertainment,179,1,music,9,Keep,Actively used
+1375,446,Online Course Platform,Learning,1080,1,learning,101,Cancel,Unused for 101 days
+1376,446,Zomato Gold,Food,173,1,food_membership,22,Keep,Actively used
+1377,446,JioHotstar,Entertainment,272,1,video,73,Cancel,Duplicate of Prime Video (video)
+1378,446,Prime Video,Entertainment,129,1,video,6,Keep,Actively used
+1379,447,JioHotstar,Entertainment,239,1,video,0,Keep,Actively used
+1380,447,Google One Storage,Productivity,195,1,storage,22,Keep,Actively used
+1381,447,Netflix,Entertainment,300,1,video,2,Cancel,Duplicate of JioHotstar (video)
+1382,447,Gym Membership,Health,1510,1,fitness,103,Cancel,Unused for 103 days
+1383,447,YouTube Premium,Entertainment,155,1,music,73,Cancel,Unused for 73 days
+1384,447,News / Magazine App,Reading,138,1,reading,82,Cancel,Unused for 82 days
+1385,448,Domain / Hosting,Dev Tools,330,1,dev_tools,1,Keep,Actively used
+1386,448,YouTube Premium,Entertainment,181,1,music,15,Keep,Actively used
+1387,448,JioHotstar,Entertainment,230,1,video,16,Keep,Actively used
+1388,449,Online Course Platform,Learning,1170,1,learning,20,Keep,Actively used
+1389,449,Zomato Gold,Food,185,1,food_membership,0,Keep,Actively used
+1390,449,AI Code Assistant,Productivity,820,1,ai_tools,21,Keep,Actively used
+1391,450,Ebook / Audiobook App,Reading,174,1,reading,6,Keep,Actively used
+1392,450,Game Subscription,Gaming,350,1,gaming,136,Cancel,Unused for 136 days
+1393,451,JioHotstar,Entertainment,263,1,video,17,Cancel,Duplicate of Prime Video (video)
+1394,451,Spotify Premium,Entertainment,125,1,music,1,Keep,Actively used
+1395,451,Learning App,Learning,560,1,learning,129,Cancel,Unused for 129 days
+1396,451,Prime Video,Entertainment,166,1,video,6,Keep,Actively used
+1397,451,Domain / Hosting,Dev Tools,290,1,dev_tools,114,Cancel,Unused for 114 days
+1398,451,AI Code Assistant,Productivity,910,1,ai_tools,10,Keep,Actively used
+1399,452,Spotify Premium,Entertainment,129,1,music,11,Keep,Actively used
+1400,452,Game Subscription,Gaming,500,1,gaming,1,Keep,Actively used
+1401,452,iCloud+ Storage,Productivity,193,1,storage,2,Keep,Actively used
+1402,453,Swiggy One,Food,156,1,food_membership,20,Keep,Actively used
+1403,453,News / Magazine App,Reading,201,1,reading,114,Cancel,Unused for 114 days
+1404,453,AI Code Assistant,Productivity,970,1,ai_tools,70,Cancel,Unused for 70 days
+1405,453,Gym Membership,Health,1590,1,fitness,69,Cancel,Unused for 69 days
+1406,454,YouTube Premium,Entertainment,172,1,music,5,Keep,Actively used
+1407,454,Zomato Gold,Food,156,1,food_membership,7,Cancel,Duplicate of Swiggy One (food_membership)
+1408,454,Prime Video,Entertainment,130,1,video,22,Keep,Actively used
+1409,454,Google One Storage,Productivity,200,1,storage,10,Keep,Actively used
+1410,454,Ebook / Audiobook App,Reading,188,1,reading,24,Keep,Actively used
+1411,454,Netflix,Entertainment,390,1,video,71,Cancel,Duplicate of Prime Video (video)
+1412,454,Swiggy One,Food,181,1,food_membership,0,Keep,Actively used
+1413,455,JioHotstar,Entertainment,260,1,video,9,Keep,Actively used
+1414,455,Fitness App,Health,430,1,fitness,14,Keep,Actively used
+1415,455,Google One Storage,Productivity,196,1,storage,122,Cancel,Unused for 122 days
+1416,456,AI Code Assistant,Productivity,830,1,ai_tools,11,Keep,Actively used
+1417,456,JioHotstar,Entertainment,220,1,video,110,Cancel,Unused for 110 days
+1418,457,Zee5,Entertainment,105,1,video,10,Keep,Actively used
+1419,457,YouTube Premium,Entertainment,179,1,music,16,Keep,Actively used
+1420,457,AI Assistant Pro,Productivity,1770,1,ai_tools,17,Keep,Actively used
+1421,457,Professional Network Premium,Professional,1730,1,professional,20,Keep,Actively used
+1422,457,VPN Service,Security,217,1,security,21,Keep,Actively used
+1423,457,Netflix,Entertainment,200,1,video,25,Cancel,Duplicate of Zee5 (video)
+1424,457,Spotify Premium,Entertainment,138,1,music,23,Cancel,Duplicate of YouTube Premium (music)
+1425,458,Gym Membership,Health,1880,1,fitness,24,Keep,Actively used
+1426,459,SonyLIV,Entertainment,379,1,video,5,Keep,Actively used
+1427,460,YouTube Premium,Entertainment,170,1,music,3,Keep,Actively used
+1428,460,Zee5,Entertainment,111,1,video,66,Cancel,Duplicate of Prime Video (video)
+1429,460,Prime Video,Entertainment,230,1,video,15,Keep,Actively used
+1430,460,News / Magazine App,Reading,156,1,reading,134,Cancel,Unused for 134 days
+1431,460,iCloud+ Storage,Productivity,202,1,storage,66,Cancel,Unused for 66 days
+1432,460,Spotify Premium,Entertainment,128,1,music,16,Cancel,Duplicate of YouTube Premium (music)
+1433,461,Zomato Gold,Food,162,1,food_membership,11,Keep,Actively used
+1434,462,JioHotstar,Entertainment,232,1,video,14,Keep,Actively used
+1435,463,Netflix,Entertainment,310,1,video,93,Cancel,Unused for 93 days
+1436,463,iCloud+ Storage,Productivity,136,1,storage,1,Keep,Actively used
+1437,464,Zomato Gold,Food,188,1,food_membership,2,Keep,Actively used
+1438,464,Gym Membership,Health,1780,1,fitness,16,Keep,Actively used
+1439,465,Google One Storage,Productivity,159,1,storage,5,Keep,Actively used
+1440,465,Netflix,Entertainment,270,1,video,23,Keep,Actively used
+1441,465,Gym Membership,Health,1230,1,fitness,77,Cancel,Unused for 77 days
+1442,466,Zomato Gold,Food,170,1,food_membership,21,Cancel,Duplicate of Swiggy One (food_membership)
+1443,466,Netflix,Entertainment,380,1,video,1,Keep,Actively used
+1444,466,Swiggy One,Food,176,1,food_membership,14,Keep,Actively used
+1445,467,Netflix,Entertainment,210,1,video,57,Cancel,Duplicate of JioHotstar (video)
+1446,467,YouTube Premium,Entertainment,167,1,music,19,Keep,Actively used
+1447,467,JioHotstar,Entertainment,163,1,video,15,Keep,Actively used
+1448,468,Zomato Gold,Food,174,1,food_membership,21,Keep,Actively used
+1449,469,JioHotstar,Entertainment,255,1,video,2,Keep,Actively used
+1450,469,AI Assistant Pro,Productivity,2000,1,ai_tools,25,Keep,Actively used
+1451,469,News / Magazine App,Reading,127,1,reading,44,Review,Low usage: 44 days since last use
+1452,470,Online Course Platform,Learning,690,1,learning,42,Review,Low usage: 42 days since last use
+1453,470,Zomato Gold,Food,167,1,food_membership,1,Keep,Actively used
+1454,470,News / Magazine App,Reading,104,1,reading,108,Cancel,Unused for 108 days
+1455,471,Gym Membership,Health,1370,1,fitness,2,Keep,Actively used
+1456,471,Netflix,Entertainment,200,1,video,16,Keep,Actively used
+1457,471,Prime Video,Entertainment,297,1,video,25,Cancel,Duplicate of Netflix (video)
+1458,472,Google One Storage,Productivity,196,1,storage,7,Keep,Actively used
+1459,473,Ebook / Audiobook App,Reading,172,1,reading,21,Keep,Actively used
+1460,473,Professional Network Premium,Professional,1580,1,professional,25,Keep,Actively used
+1461,474,YouTube Premium,Entertainment,164,1,music,13,Keep,Actively used
+1462,474,iCloud+ Storage,Productivity,194,1,storage,25,Keep,Actively used
+1463,475,Online Course Platform,Learning,880,1,learning,150,Cancel,Unused for 150 days
+1464,475,Netflix,Entertainment,510,1,video,11,Keep,Actively used
+1465,476,iCloud+ Storage,Productivity,147,1,storage,5,Keep,Actively used
+1466,476,Spotify Premium,Entertainment,119,1,music,24,Keep,Actively used
+1467,477,News / Magazine App,Reading,104,1,reading,3,Keep,Actively used
+1468,477,Online Course Platform,Learning,460,1,learning,32,Review,Low usage: 32 days since last use
+1469,478,Google One Storage,Productivity,182,1,storage,105,Cancel,Unused for 105 days
+1470,478,JioHotstar,Entertainment,196,1,video,133,Cancel,Unused for 133 days
+1471,478,YouTube Premium,Entertainment,175,1,music,9,Cancel,Duplicate of Spotify Premium (music)
+1472,478,Spotify Premium,Entertainment,128,1,music,0,Keep,Actively used
+1473,479,iCloud+ Storage,Productivity,207,1,storage,11,Keep,Actively used
+1474,480,YouTube Premium,Entertainment,160,1,music,14,Keep,Actively used
+1475,481,AI Code Assistant,Productivity,970,1,ai_tools,23,Keep,Actively used
+1476,481,JioSaavn Pro,Entertainment,99,1,music,15,Keep,Actively used
+1477,481,Netflix,Entertainment,570,1,video,20,Keep,Actively used
+1478,482,iCloud+ Storage,Productivity,155,1,storage,65,Cancel,Unused for 65 days
+1479,482,YouTube Premium,Entertainment,188,1,music,4,Keep,Actively used
+1480,482,Swiggy One,Food,152,1,food_membership,5,Keep,Actively used
+1481,483,Online Course Platform,Learning,760,1,learning,11,Keep,Actively used
+1482,484,JioHotstar,Entertainment,267,1,video,116,Cancel,Unused for 116 days
+1483,485,VPN Service,Security,299,1,security,18,Keep,Actively used
+1484,485,Swiggy One,Food,177,1,food_membership,7,Keep,Actively used
+1485,485,AI Assistant Pro,Productivity,1890,1,ai_tools,16,Keep,Actively used
+1486,485,Online Course Platform,Learning,890,1,learning,23,Keep,Actively used
+1487,486,Fitness App,Health,970,1,fitness,89,Cancel,Unused for 89 days
+1488,487,Netflix,Entertainment,330,1,video,1,Keep,Actively used
+1489,487,Zomato Gold,Food,176,1,food_membership,8,Keep,Actively used
+1490,487,AI Code Assistant,Productivity,880,1,ai_tools,5,Keep,Actively used
+1491,487,Game Subscription,Gaming,510,1,gaming,17,Keep,Actively used
+1492,487,Spotify Premium,Entertainment,129,1,music,22,Keep,Actively used
+1493,487,Prime Video,Entertainment,251,1,video,24,Cancel,Duplicate of Netflix (video)
+1494,487,JioHotstar,Entertainment,179,1,video,65,Cancel,Duplicate of Netflix (video)
+1495,488,Gym Membership,Health,1940,1,fitness,18,Keep,Actively used
+1496,488,iCloud+ Storage,Productivity,167,1,storage,8,Keep,Actively used
+1497,489,Online Course Platform,Learning,1090,1,learning,38,Review,Low usage: 38 days since last use
+1498,489,Game Subscription,Gaming,510,1,gaming,18,Keep,Actively used
+1499,489,Prime Video,Entertainment,260,1,video,8,Keep,Actively used
+1500,489,JioSaavn Pro,Entertainment,99,1,music,7,Keep,Actively used
+1501,490,JioHotstar,Entertainment,213,1,video,17,Keep,Actively used
+1502,490,Spotify Premium,Entertainment,123,1,music,108,Cancel,Unused for 108 days
+1503,490,Google One Storage,Productivity,165,1,storage,100,Cancel,Unused for 100 days
+1504,490,Netflix,Entertainment,300,1,video,72,Cancel,Duplicate of JioHotstar (video)
+1505,491,Spotify Premium,Entertainment,138,1,music,7,Keep,Actively used
+1506,491,Swiggy One,Food,156,1,food_membership,92,Cancel,Unused for 92 days
+1507,491,Google One Storage,Productivity,171,1,storage,8,Keep,Actively used
+1508,492,Spotify Premium,Entertainment,132,1,music,115,Cancel,Unused for 115 days
+1509,493,Zomato Gold,Food,162,1,food_membership,2,Keep,Actively used
+1510,493,SonyLIV,Entertainment,289,1,video,12,Keep,Actively used
+1511,493,AI Assistant Pro,Productivity,1700,1,ai_tools,79,Cancel,Unused for 79 days
+1512,494,Google One Storage,Productivity,204,1,storage,66,Cancel,Unused for 66 days
+1513,494,YouTube Premium,Entertainment,182,1,music,19,Cancel,Duplicate of Spotify Premium (music)
+1514,494,Swiggy One,Food,151,1,food_membership,13,Keep,Actively used
+1515,494,Prime Video,Entertainment,189,1,video,25,Cancel,Duplicate of Netflix (video)
+1516,494,Online Course Platform,Learning,620,1,learning,5,Keep,Actively used
+1517,494,Spotify Premium,Entertainment,125,1,music,5,Keep,Actively used
+1518,494,Netflix,Entertainment,630,1,video,7,Keep,Actively used
+1519,495,Online Course Platform,Learning,580,1,learning,22,Keep,Actively used
+1520,496,News / Magazine App,Reading,155,1,reading,115,Cancel,Unused for 115 days
+1521,497,Prime Video,Entertainment,140,1,video,7,Cancel,Duplicate of JioHotstar (video)
+1522,497,Netflix,Entertainment,150,1,video,95,Cancel,Duplicate of JioHotstar (video)
+1523,497,JioHotstar,Entertainment,297,1,video,0,Keep,Actively used
+1524,497,Swiggy One,Food,159,1,food_membership,45,Review,Low usage: 45 days since last use
+1525,498,AI Assistant Pro,Productivity,2000,1,ai_tools,101,Cancel,Unused for 101 days
+1526,498,Online Course Platform,Learning,780,1,learning,19,Keep,Actively used
+1527,498,Spotify Premium,Entertainment,121,1,music,17,Cancel,Duplicate of YouTube Premium (music)
+1528,498,YouTube Premium,Entertainment,164,1,music,15,Keep,Actively used
+1529,499,Gym Membership,Health,1730,1,fitness,143,Cancel,Unused for 143 days
+1530,499,Google One Storage,Productivity,172,1,storage,141,Cancel,Unused for 141 days
+1531,499,Prime Video,Entertainment,252,1,video,7,Keep,Actively used
+1532,499,Ebook / Audiobook App,Reading,163,1,reading,3,Keep,Actively used
+1533,499,Game Subscription,Gaming,540,1,gaming,17,Keep,Actively used
+1534,500,SonyLIV,Entertainment,147,1,video,91,Cancel,Duplicate of Netflix (video)
+1535,500,Zomato Gold,Food,163,1,food_membership,7,Keep,Actively used
+1536,500,Netflix,Entertainment,450,1,video,34,Review,Low usage: 34 days since last use
